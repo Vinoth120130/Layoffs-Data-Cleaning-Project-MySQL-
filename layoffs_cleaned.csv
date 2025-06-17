@@ -1,0 +1,1001 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions,data_quality_flag
+Transportation,Toronto,Transportation,NULL,NULL,2022-12-16,Post-IPO,Canada,NULL,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.06,2022-07-25,"Series E","United States",272,Incomplete
+Marketing,Dublin,Marketing,9,0.09,2022-11-17,"Series A",Ireland,35,Complete
+Marketing,Toronto,Marketing,19,0.17,2023-01-27,"Series B",Canada,21,Complete
+Consumer,"Los Angeles",Consumer,12,NULL,2022-07-13,"Series C","United States",120,Incomplete
+Retail,"Los Angeles",Retail,NULL,NULL,2023-01-10,"Series C","United States",120,Incomplete
+Healthcare,"SF Bay Area",Healthcare,100,0.08,2022-08-04,Post-IPO,"United States",242,Complete
+Retail,"New York City",Retail,70,0.17,2020-04-02,"Series D","United States",253,Complete
+Crypto,"Sao Paulo",Crypto,90,0.12,2022-06-01,Unknown,Brazil,250,Complete
+Crypto,"Sao Paulo",Crypto,100,0.15,2022-09-01,Unknown,Brazil,250,Complete
+Education,"Washington D.C.",Education,NULL,0.2,2022-07-28,Post-IPO,"United States",426,Incomplete
+Healthcare,"Washington D.C.",Healthcare,95,0.3,2022-08-29,"Series B","United States",44,Complete
+Energy,Sydney,Energy,NULL,0.25,2022-06-03,"Series A",Australia,12,Incomplete
+Sales,"SF Bay Area",Sales,150,0.1,2022-10-12,"Series E","United States",426,Complete
+Food,Cincinnati,Food,NULL,0.1,2023-01-18,Unknown,"United States",275,Incomplete
+Support,"SF Bay Area",Support,155,0.07,2023-01-18,Post-IPO,"United States",253,Complete
+Support,"SF Bay Area",Support,200,0.09,2022-10-04,Post-IPO,"United States",253,Complete
+Healthcare,Seattle,Healthcare,NULL,0.1,2022-07-21,"Series E","United States",247,Incomplete
+Transportation,"Sao Paulo",Transportation,75,0.02,2022-09-20,Acquired,Brazil,244,Complete
+Crypto,"SF Bay Area",Crypto,12,0.05,2022-06-30,"Series C","United States",106,Complete
+Healthcare,Vancouver,Healthcare,40,NULL,2022-08-09,Post-IPO,"United States",237,Incomplete
+Media,Stockholm,Media,70,0.15,2022-09-15,Post-IPO,Sweden,126,Complete
+Healthcare,Seattle,Healthcare,NULL,NULL,2023-03-03,Post-IPO,"United States",458,Incomplete
+Finance,Mumbai,Finance,45,0.09,2020-04-01,Unknown,India,143,Complete
+Finance,Portland,Finance,50,NULL,2020-05-26,Unknown,"United States",207,Incomplete
+Data,Boston,Data,54,NULL,2020-12-16,Acquired,"United States",352,Incomplete
+Marketing,Chicago,Marketing,NULL,0.15,2022-10-03,"Series C","United States",360,Incomplete
+Support,Toronto,Support,NULL,NULL,2023-02-01,"Series C",Canada,190,Incomplete
+Support,Toronto,Support,78,0.16,2022-09-20,"Series C",Canada,190,Complete
+Healthcare,Berlin,Healthcare,50,NULL,2022-10-17,"Series B",Germany,189,Incomplete
+Support,Toronto,Support,36,0.23,2020-04-24,"Series B",Canada,60,Complete
+Healthcare,Seattle,Healthcare,100,0.12,2022-03-08,Post-IPO,"United States",406,Complete
+Travel,"SF Bay Area",Travel,NULL,NULL,2020-03-31,"Series C","United States",67,Incomplete
+Finance,"SF Bay Area",Finance,20,0.03,2023-01-18,"Series F","United States",491,Complete
+Finance,Bogota,Finance,NULL,NULL,2022-06-14,"Series C",Colombia,376,Incomplete
+Marketing,"SF Bay Area",Marketing,100,NULL,2022-12-06,Post-IPO,"United States",2,Incomplete
+Marketing,"Salt Lake City",Marketing,210,0.3,2020-03-31,"Series C","United States",89,Complete
+Healthcare,Seattle,Healthcare,32,0.21,2022-10-28,NULL,"United States",NULL,Incomplete
+Marketing,Durham,Marketing,40,NULL,2022-07-07,Unknown,"United States",20,Incomplete
+Finance,"SF Bay Area",Finance,NULL,0.01,2022-11-03,Post-IPO,"United States",1500,Incomplete
+Finance,"SF Bay Area",Finance,500,0.19,2023-02-08,Post-IPO,"United States",1500,Complete
+Consumer,Brasilia,Consumer,60,0.2,2022-06-03,Unknown,Brazil,NULL,Incomplete
+Travel,Singapore,Travel,1500,0.25,2020-05-18,Acquired,Singapore,NULL,Incomplete
+Healthcare,"SF Bay Area",Healthcare,44,1,2022-04-14,Unknown,"United States",9,Complete
+Marketing,"New York City",Marketing,NULL,0.16,2020-09-16,"Series A","United States",18,Incomplete
+Travel,"SF Bay Area",Travel,1900,0.25,2020-05-05,"Private Equity","United States",5400,Complete
+Logistics,Lahore,Logistics,NULL,0.31,2022-05-25,"Series B",Pakistan,109,Incomplete
+Logistics,Lahore,Logistics,NULL,1,2022-07-12,"Series B",Pakistan,109,Incomplete
+Aerospace,"Los Angeles",Aerospace,NULL,NULL,2020-04-30,Unknown,"United States",75,Incomplete
+Product,"SF Bay Area",Product,254,0.2,2022-12-08,"Series F","United States",1400,Complete
+Consumer,Copenhagen,Consumer,15,NULL,2022-06-15,Unknown,Denmark,7,Incomplete
+Consumer,Sydney,Consumer,NULL,NULL,2022-07-04,"Series C",Australia,26,Incomplete
+Consumer,"New York City",Consumer,30,0.2,2022-05-23,"Series B","United States",33,Complete
+Travel,Jakarta,Travel,NULL,0.7,2020-04-22,Unknown,Indonesia,NULL,Incomplete
+Travel,Jakarta,Travel,NULL,1,2020-05-07,Unknown,Indonesia,NULL,Incomplete
+Infrastructure,Helsinki,Infrastructure,NULL,0.2,2023-01-18,"Series D",Finland,420,Incomplete
+Finance,Jakarta,Finance,67,0.08,2022-11-28,Unknown,Indonesia,245,Complete
+Logistics,Denver,Logistics,NULL,NULL,2022-05-27,Unknown,"United States",46,Incomplete
+Logistics,Denver,Logistics,NULL,NULL,2020-09-02,Post-IPO,"United States",NULL,Incomplete
+Healthcare,Baltimore,Healthcare,46,0.3,2023-01-12,Seed,"United States",NULL,Incomplete
+Finance,Jakarta,Finance,100,NULL,2020-04-15,"Series D",Indonesia,160,Incomplete
+Healthcare,Montreal,Healthcare,80,0.14,2022-08-16,"Series D",Canada,293,Complete
+Finance,"Los Angeles",Finance,20,0.08,2022-06-10,"Series C","United States",175,Complete
+Data,Austin,Data,NULL,NULL,2020-04-03,"Series A","United States",16,Incomplete
+Retail,Ibadan,Retail,NULL,NULL,2022-09-02,"Series B",Nigeria,16,Incomplete
+Retail,Ibadan,Retail,400,NULL,2023-03-06,"Series B",Nigeria,16,Incomplete
+Healthcare,"Sao Paulo",Healthcare,63,NULL,2022-07-11,"Series C",Brazil,174,Incomplete
+Healthcare,"Sao Paulo",Healthcare,113,0.16,2022-12-09,"Series C",Brazil,174,Complete
+Retail,Moscow,Retail,400,0.4,2022-05-14,Acquired,Russia,60,Complete
+Retail,"SF Bay Area",Retail,23,NULL,2022-07-28,Post-IPO,"United States",202,Incomplete
+HR,"SF Bay Area",HR,NULL,NULL,2020-04-03,"Series B","United States",64,Incomplete
+Other,"SF Bay Area",Other,NULL,NULL,2022-08-13,"Series A","United States",45,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-07-14,"Series E","United States",560,Incomplete
+Healthcare,"SF Bay Area",Healthcare,47,0.06,2020-09-29,"Series D","United States",356,Complete
+Retail,Seattle,Retail,150,NULL,2022-10-28,Post-IPO,"United States",108,Incomplete
+Retail,Seattle,Retail,8000,0.02,2023-01-04,Post-IPO,"United States",108,Complete
+Retail,Seattle,Retail,10000,0.03,2022-11-16,Post-IPO,"United States",108,Complete
+Crypto,"Hong Kong",Crypto,NULL,0.1,2022-09-09,"Series B","Hong Kong",328,Incomplete
+Food,Blumenau,Food,50,NULL,2023-03-02,Acquired,Brazil,NULL,Incomplete
+Support,"St. Louis",Support,700,0.03,2023-01-02,Post-IPO,"United States",NULL,Incomplete
+Other,Boston,Other,50,0.65,2023-01-17,Acquired,"United States",92,Complete
+Marketing,"SF Bay Area",Marketing,NULL,NULL,2022-11-09,Acquired,"United States",72,Incomplete
+Finance,Chicago,Finance,NULL,0.18,2022-06-27,Unknown,"United States",283,Incomplete
+Finance,Chicago,Finance,130,0.25,2023-02-27,Unknown,"United States",283,Complete
+Marketing,Seattle,Marketing,13,0.03,2022-08-20,"Series D","United States",187,Complete
+Marketing,Seattle,Marketing,17,1,2020-03-29,"Series B","United States",25,Complete
+Healthcare,"Los Angeles",Healthcare,17,NULL,2020-04-03,"Series A","United States",14,Incomplete
+Recruiting,"New York City",Recruiting,135,0.1,2020-05-05,"Series D","United States",181,Complete
+Recruiting,"SF Bay Area",Recruiting,20,NULL,2020-03-31,"Series B","United States",26,Incomplete
+Data,"Tel Aviv",Data,35,0.27,2022-07-06,"Series C","United States",64,Complete
+Healthcare,"Tel Aviv",Healthcare,23,0.38,2022-10-23,Unknown,Israel,36,Complete
+Security,"Tel Aviv",Security,NULL,NULL,2020-03-19,"Series A",Israel,74,Incomplete
+"Real Estate","Tel Aviv","Real Estate",11,NULL,2022-08-14,"Series A",Israel,15,Incomplete
+"Real Estate","SF Bay Area","Real Estate",29,0.1,2022-08-31,"Series D","United States",169,Complete
+Food,"Santa Barbara",Food,NULL,NULL,2022-07-11,"Series E","United States",640,Incomplete
+Product,"SF Bay Area",Product,NULL,0.15,2022-12-15,"Series D","United States",183,Incomplete
+Finance,Vancouver,Finance,NULL,0.25,2022-11-15,"Series B",Canada,11,Incomplete
+Data,"SF Bay Area",Data,80,0.18,2020-04-28,Unknown,"United States",156,Complete
+Security,Miami,Security,34,0.08,2023-02-01,Post-IPO,"United States",NULL,Incomplete
+Security,Miami,Security,130,0.22,2022-07-21,Post-IPO,"United States",NULL,Incomplete
+Marketing,"SF Bay Area",Marketing,300,0.12,2022-06-27,Post-IPO,"United States",1600,Complete
+Education,Waterloo,Education,90,0.06,2022-11-28,"Series D",Canada,483,Complete
+Food,Chennai,Food,80,0.3,2022-06-20,Unknown,India,12,Complete
+Security,Boston,Security,65,0.1,2022-12-05,"Series E","United States",265,Complete
+Security,"Tel Aviv",Security,24,0.09,2020-04-01,"Series C",Israel,100,Complete
+HR,"SF Bay Area",HR,13,NULL,2022-07-20,Seed,"United States",1,Incomplete
+Healthcare,Brisbane,Healthcare,NULL,1,2023-01-13,"Series C","United States",155,Incomplete
+Healthcare,"St. Louis",Healthcare,NULL,NULL,2023-02-22,"Series C","United States",155,Incomplete
+Security,Miami,Security,NULL,NULL,2022-07-22,Unknown,"United States",NULL,Incomplete
+Transportation,Munich,Transportation,100,NULL,2020-06-29,Unknown,Germany,3600,Incomplete
+Transportation,Pittsburgh,Transportation,150,0.05,2022-07-07,Unknown,"United States",3600,Complete
+Transportation,Pittsburgh,Transportation,173,NULL,2022-10-26,Unknown,"United States",3600,Incomplete
+Transportation,"SF Bay Area",Transportation,259,NULL,2022-11-01,Unknown,"United States",3600,Incomplete
+Finance,"New York City",Finance,20,0.07,2022-08-26,"Series B","United States",78,Complete
+Security,"SF Bay Area",Security,25,0.04,2022-12-08,"Private Equity","United States",537,Complete
+Transportation,London,Transportation,NULL,NULL,2022-10-20,Post-IPO,"United Kingdom",629,Incomplete
+Transportation,London,Transportation,NULL,0.3,2022-07-13,Post-IPO,"United Kingdom",629,Incomplete
+Transportation,London,Transportation,800,0.5,2023-01-30,Post-IPO,"United Kingdom",629,Complete
+Logistics,Austin,Logistics,75,0.07,2020-04-03,"Series B","United States",35,Complete
+Retail,Vancouver,Retail,216,0.17,2022-08-04,"Series B",Canada,NULL,Incomplete
+Education,"New York City",Education,38,NULL,2023-02-02,"Series A","United States",1500,Incomplete
+Retail,Berlin,Retail,26,0.36,2022-08-31,Unknown,Germany,NULL,Incomplete
+Other,"SF Bay Area",Other,180,0.09,2022-11-15,Post-IPO,"United States",453,Complete
+Support,Portland,Support,NULL,NULL,2020-04-07,"Series A","United States",15,Incomplete
+Marketing,"SF Bay Area",Marketing,23,NULL,2022-07-15,"Series A","United States",27,Incomplete
+Finance,"Salt Lake City",Finance,NULL,1,2022-11-23,Seed,"United States",2,Incomplete
+Aerospace,"SF Bay Area",Aerospace,NULL,0.16,2022-11-08,Post-IPO,"United States",300,Incomplete
+Aerospace,"SF Bay Area",Aerospace,40,0.25,2020-04-05,Unknown,"United States",100,Complete
+Data,Cincinnati,Data,76,0.2,2023-01-04,"Series C","United States",282,Complete
+"Real Estate",Atlanta,"Real Estate",NULL,0.5,2020-04-02,Unknown,"United States",NULL,Incomplete
+Media,"New York City",Media,15,NULL,2020-06-18,"Series B","United States",32,Incomplete
+Other,Sydney,Other,500,0.05,2023-03-06,Post-IPO,Australia,210,Complete
+Finance,"SF Bay Area",Finance,32,0.3,2022-10-19,"Series B","United States",177,Complete
+Finance,Singapore,Finance,NULL,NULL,2022-10-06,Unknown,Singapore,645,Incomplete
+Infrastructure,Seattle,Infrastructure,6,1,2020-04-10,Unknown,"United States",1,Complete
+Marketing,"New York City",Marketing,NULL,0.15,2023-01-05,"Series E","United States",863,Incomplete
+Security,"Tel Aviv",Security,19,0.09,2023-01-31,Unknown,Israel,80,Complete
+Manufacturing,"New York City",Manufacturing,20,0.05,2023-01-04,"Series E","United States",274,Complete
+Security,Boston,Security,70,0.09,2022-06-23,"Series F","United States",500,Complete
+Finance,"SF Bay Area",Finance,NULL,NULL,2020-04-14,Unknown,"United States",584,Incomplete
+Finance,"SF Bay Area",Finance,NULL,1,2021-01-11,Unknown,"United States",584,Incomplete
+Finance,Detroit,Finance,NULL,NULL,2022-12-10,"Series C","United States",97,Incomplete
+Other,"SF Bay Area",Other,250,0.02,2023-02-02,Post-IPO,"United States",NULL,Incomplete
+Crypto,"Los Angeles",Crypto,NULL,NULL,2022-12-16,"Series B","United States",205,Incomplete
+Transportation,"SF Bay Area",Transportation,NULL,1,2020-05-01,Acquired,"United States",24,Incomplete
+Other,"SF Bay Area",Other,260,0.1,2020-04-27,"Series B","United States",840,Complete
+Infrastructure,Boulder,Infrastructure,NULL,NULL,2022-06-13,"Series C","United States",152,Incomplete
+Infrastructure,Boulder,Infrastructure,NULL,0.11,2022-04-18,"Series C","United States",152,Incomplete
+Finance,Seattle,Finance,NULL,NULL,2023-01-20,Acquired,"United States",341,Incomplete
+Media,Minneapolis,Media,5,0.2,2020-04-03,Unknown,"United States",NULL,Incomplete
+Travel,"Los Angeles",Travel,80,NULL,2022-06-29,Unknown,"United States",811,Incomplete
+Travel,"Los Angeles",Travel,144,0.22,2022-11-09,"Private Equity","United States",686,Complete
+Security,Phoenix,Security,NULL,0.25,2022-11-10,Unknown,"United States",NULL,Incomplete
+Food,"Tel Aviv",Food,500,0.67,2022-05-01,"Series B",Israel,45,Complete
+Security,Columbus,Security,NULL,NULL,2023-01-06,"Series C","United States",88,Incomplete
+Retail,"New York City",Retail,60,0.1,2020-04-07,"Series D","United States",181,Complete
+Retail,Dubai,Retail,NULL,1,2020-09-02,"Series A","United Arab Emirates",30,Incomplete
+Finance,Toronto,Finance,5,0.25,2020-11-19,Seed,"United States",3,Complete
+Retail,"SF Bay Area",Retail,250,0.5,2020-03-26,"Series C","United States",88,Complete
+Healthcare,London,Healthcare,100,NULL,2022-07-12,Post-IPO,"United Kingdom",1100,Incomplete
+Retail,Paris,Retail,93,0.13,2022-12-23,"Series E",France,1000,Complete
+Crypto,Atlanta,Crypto,NULL,0.15,2022-12-08,Post-IPO,"United States",932,Incomplete
+Sales,"St. Louis",Sales,30,NULL,2022-06-22,"Series B","United States",51,Incomplete
+Sales,"St. Louis",Sales,35,NULL,2022-12-12,"Series B","United States",51,Incomplete
+Healthcare,Louisville,Healthcare,52,NULL,2022-07-01,Unknown,"United States",NULL,Incomplete
+Crypto,Melbourne,Crypto,70,0.3,2022-06-27,Post-IPO,Australia,13,Complete
+Transportation,Sydney,Transportation,NULL,0.75,2023-02-08,Unknown,Australia,63,Incomplete
+Retail,"New York City",Retail,126,0.12,2023-02-09,Post-IPO,"United States",NULL,Incomplete
+Transportation,"SF Bay Area",Transportation,16,0.25,2022-06-29,"Series A","United States",13,Complete
+Finance,Curitiba,Finance,NULL,NULL,2020-03-27,"Series A",Brazil,NULL,Incomplete
+Healthcare,Columbus,Healthcare,31,0.08,2023-02-08,"Series E","United States",168,Complete
+HR,London,HR,NULL,0.12,2023-01-10,"Series D","United States",223,Incomplete
+Transportation,Athens,Transportation,NULL,NULL,2022-11-08,"Series B",Greece,6,Incomplete
+Finance,"Sao Paulo",Finance,30,NULL,2020-04-10,"Series B",Brazil,14,Incomplete
+Finance,Vancouver,Finance,47,0.1,2020-03-27,"Series B",Canada,49,Complete
+Other,Calgary,Other,137,0.14,2023-01-18,Unknown,Canada,69,Complete
+Retail,"New York City",Retail,NULL,0.14,2022-11-04,"Series A","United States",380,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.12,2022-08-09,Post-IPO,"United States",272,Incomplete
+Retail,Berlin,Retail,100,0.1,2022-06-10,Unknown,Germany,1000,Complete
+Finance,Dallas,Finance,41,0.14,2022-06-24,"Series C","United States",137,Complete
+"Real Estate","New York City","Real Estate",NULL,NULL,2022-04-19,Unknown,"United States",905,Incomplete
+"Real Estate","New York City","Real Estate",NULL,NULL,2022-08-26,Unknown,"United States",905,Incomplete
+"Real Estate","New York City","Real Estate",900,0.09,2021-12-01,Unknown,"United States",905,Complete
+"Real Estate","New York City","Real Estate",3000,0.33,2022-03-08,Unknown,"United States",905,Complete
+Security,"New York City",Security,NULL,NULL,2020-05-13,"Series E","United States",111,Incomplete
+Healthcare,Santiago,Healthcare,NULL,0.3,2023-01-18,"Series C",Chile,204,Incomplete
+Healthcare,Santiago,Healthcare,30,NULL,2022-08-11,"Series C",Chile,204,Incomplete
+Finance,"New York City",Finance,28,NULL,2023-02-15,"Series F","United States",435,Incomplete
+Food,Boston,Food,30,0.2,2020-03-27,"Series C","United States",60,Complete
+Food,"Los Angeles",Food,40,NULL,2022-08-03,Post-IPO,"United States",122,Incomplete
+Food,"Los Angeles",Food,200,0.19,2022-10-14,Post-IPO,"United States",122,Complete
+Data,"Tel Aviv",Data,65,1,2022-05-23,"Series A",Israel,16,Complete
+Food,Mumbai,Food,40,0.43,2023-01-15,"Series A",India,21,Complete
+Media,Seattle,Media,250,NULL,2020-09-01,Acquired,"United States",95,Incomplete
+Data,Baltimore,Data,NULL,0.07,2022-09-08,Post-IPO,"United States",200,Incomplete
+Retail,Austin,Retail,180,0.13,2022-12-15,Post-IPO,"United States",224,Complete
+Retail,Bengaluru,Retail,NULL,NULL,2022-07-28,"Series A",India,12,Incomplete
+Media,Shanghai,Media,NULL,0.3,2022-12-27,Post-IPO,China,3700,Incomplete
+Healthcare,"SF Bay Area",Healthcare,120,0.04,2022-10-07,Post-IPO,"United States",585,Complete
+Transportation,"Los Angeles",Transportation,138,0.23,2022-06-07,Post-IPO,"United States",783,Complete
+Transportation,"Los Angeles",Transportation,406,0.3,2020-03-27,"Series D","United States",623,Complete
+Crypto,Quebec,Crypto,NULL,NULL,2020-04-06,Post-IPO,Canada,25,Incomplete
+Crypto,"SF Bay Area",Crypto,NULL,1,2022-11-29,Unknown,"United States",NULL,Incomplete
+Crypto,"SF Bay Area",Crypto,NULL,0.12,2020-04-17,"Series B","United States",69,Incomplete
+Crypto,Non-U.S.,Crypto,NULL,0.3,2022-11-02,Seed,Seychelles,0,Incomplete
+Crypto,Non-U.S.,Crypto,75,0.25,2022-04-04,Seed,Seychelles,0,Complete
+Crypto,Dubai,Crypto,9,0.05,2022-06-19,"Series B","United Arab Emirates",30,Complete
+Crypto,Vienna,Crypto,270,0.27,2022-06-24,"Series C",Austria,546,Complete
+Infrastructure,Budapest,Infrastructure,NULL,0.14,2022-09-14,"Series C",Hungary,83,Incomplete
+Security,"Tel Aviv",Security,40,NULL,2023-02-26,Unknown,Israel,401,Incomplete
+Crypto,"Mexico City",Crypto,80,0.11,2022-05-26,"Series C",Mexico,378,Complete
+Crypto,"Mexico City",Crypto,100,NULL,2022-11-29,"Series C",Mexico,378,Incomplete
+Data,Seattle,Data,70,0.27,2021-11-18,Acquired,"United States",46,Complete
+Infrastructure,"SF Bay Area",Infrastructure,92,NULL,2023-01-20,Acquired,"United States",NULL,Incomplete
+Crypto,Seattle,Crypto,80,NULL,2023-02-02,Unknown,"United States",NULL,Incomplete
+Logistics,Mumbai,Logistics,140,NULL,2020-07-10,"Series C",India,70,Incomplete
+Finance,Sydney,Finance,NULL,0.3,2022-05-04,Unknown,Australia,45,Incomplete
+Marketing,"New York City",Marketing,100,0.37,2022-12-01,"Series E","United States",194,Complete
+Marketing,"New York City",Marketing,120,0.3,2022-07-05,"Series E","United States",194,Complete
+Hardware,Shenzen,Hardware,900,NULL,2023-01-13,Unknown,China,NULL,Incomplete
+Other,Charleston,Other,500,0.14,NULL,Post-IPO,"United States",NULL,Incomplete
+Logistics,Bengaluru,Logistics,200,NULL,2020-04-17,"Series D",India,293,Incomplete
+Finance,"Los Angeles",Finance,95,0.05,2022-12-08,"Private Equity","United States",220,Complete
+Media,London,Media,20,NULL,2020-09-11,Acquired,"United Kingdom",41,Incomplete
+Finance,"SF Bay Area",Finance,100,0.06,2022-11-10,Post-IPO,"United States",665,Complete
+Finance,"SF Bay Area",Finance,200,0.1,2022-04-19,Post-IPO,"United States",665,Complete
+Finance,"SF Bay Area",Finance,220,0.12,2022-08-15,Post-IPO,"United States",665,Complete
+Finance,"SF Bay Area",Finance,340,0.28,2023-01-10,Post-IPO,"United States",665,Complete
+Crypto,London,Crypto,110,0.28,2023-01-12,"Series D","United Kingdom",490,Complete
+Crypto,London,Crypto,150,0.25,2022-07-21,"Series D","United Kingdom",490,Complete
+Crypto,"New York City",Crypto,NULL,1,2022-11-28,"Series E","United States",1000,Incomplete
+Crypto,"New York City",Crypto,250,0.2,2022-06-13,"Series E","United States",1000,Complete
+Education,"SF Bay Area",Education,88,0.5,2022-12-01,Unknown,"United States",NULL,Incomplete
+Food,"New York City",Food,NULL,0.1,2022-12-08,Post-IPO,"United States",352,Incomplete
+"Real Estate","New York City","Real Estate",130,0.25,2020-03-27,"Series B","United States",77,Complete
+Other,"SF Bay Area",Other,60,NULL,2022-07-20,"Series C","United States",48,Incomplete
+Logistics,"SF Bay Area",Logistics,30,0.1,2020-03-30,Unknown,"United States",NULL,Incomplete
+Education,Denver,Education,137,1,2020-05-26,Acquired,"United States",108,Complete
+Finance,Philadelphia,Finance,NULL,0.25,2023-01-30,Post-IPO,"United States",NULL,Incomplete
+Transportation,Lagos,Transportation,17,NULL,2023-02-21,"Series F",Nigeria,NULL,Incomplete
+Finance,"SF Bay Area",Finance,50,0.1,2023-01-24,"Series E","United States",1300,Complete
+Finance,"SF Bay Area",Finance,240,0.27,2022-05-25,"Series E","United States",1300,Complete
+Finance,"SF Bay Area",Finance,NULL,NULL,2022-06-07,"Series A","United States",42,Incomplete
+Retail,Toronto,Retail,29,0.34,2022-04-26,"Series A",Canada,27,Complete
+Retail,Toronto,Retail,30,0.55,2022-06-20,"Series A",Canada,27,Complete
+Other,Austin,Other,140,0.1,2023-01-13,Unknown,"United States",NULL,Incomplete
+Education,"Salt Lake City",Education,12,0.25,2022-05-31,"Series A","United States",26,Complete
+Travel,Amsterdam,Travel,4375,0.25,2020-07-30,Acquired,Netherlands,NULL,Incomplete
+Travel,"Grand Rapids",Travel,226,NULL,2022-11-01,Acquired,"United States",NULL,Incomplete
+Consumer,Mumbai,Consumer,270,0.18,2020-05-28,Unknown,India,224,Complete
+Consumer,"SF Bay Area",Consumer,200,NULL,2020-04-01,"Series B","United States",48,Incomplete
+Retail,Sydney,Retail,NULL,NULL,2022-06-28,"Series A",Australia,23,Incomplete
+Retail,Sydney,Retail,30,NULL,2023-01-23,"Series A",Australia,23,Incomplete
+Retail,"Los Angeles",Retail,NULL,0.05,2022-07-22,"Series B","United States",137,Incomplete
+Retail,Malmo,Retail,70,0.05,2022-06-09,Post-IPO,Sweden,56,Complete
+Finance,Toronto,Finance,15,0.2,2020-04-06,"Series B",Canada,72,Complete
+Retail,"SF Bay Area",Retail,NULL,0.5,2020-11-02,Unknown,"United States",102,Incomplete
+Retail,"SF Bay Area",Retail,61,NULL,2020-06-29,Unknown,"United States",102,Incomplete
+Transportation,Bengaluru,Transportation,40,0.05,2023-01-06,"Series D",India,214,Complete
+Transportation,Bengaluru,Transportation,120,NULL,2020-03-19,"Series D",India,214,Incomplete
+Transportation,Bengaluru,Transportation,130,0.22,2020-06-29,"Series D",India,214,Complete
+Transportation,Bengaluru,Transportation,200,0.4,2021-02-22,"Series D",India,214,Complete
+Marketing,"New York City",Marketing,77,0.2,2020-04-06,"Series B","United States",75,Complete
+Sales,"Los Angeles",Sales,NULL,NULL,2022-07-28,"Series A","United States",12,Incomplete
+Education,Krakow,Education,25,NULL,2022-11-06,"Series D",Poland,148,Incomplete
+Retail,"New York City",Retail,3,0.27,2020-06-11,Seed,"United States",2,Complete
+Marketing,"SF Bay Area",Marketing,100,0.2,2020-04-07,"Series E","United States",367,Complete
+Healthcare,Portland,Healthcare,40,0.33,2022-09-06,"Series B","United States",42,Complete
+Healthcare,"New Delhi",Healthcare,50,0.33,2022-06-14,"Series A",India,6,Complete
+"Real Estate",Montreal,"Real Estate",120,0.8,2020-12-16,"Series D",Canada,131,Complete
+Finance,"SF Bay Area",Finance,62,0.15,2020-05-29,"Series C","United States",732,Complete
+Finance,"SF Bay Area",Finance,136,0.11,2022-10-11,"Series D","United States",1500,Complete
+Healthcare,Nashville,Healthcare,154,1,2020-11-17,"Series B","United States",45,Complete
+Construction,Waterloo,Construction,13,0.13,2022-12-06,"Series B",Canada,36,Complete
+Data,"SF Bay Area",Data,30,0.08,2022-06-28,Unknown,Israel,250,Complete
+Finance,Bengaluru,Finance,100,0.5,2022-07-15,"Series A",India,31,Complete
+Energy,Sydney,Energy,30,0.15,2022-06-20,"Series C",Australia,145,Complete
+Energy,Sydney,Energy,58,NULL,2022-09-09,"Series C",Australia,145,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.2,2022-11-01,"Series C","United States",212,Incomplete
+Logistics,"Tel Aviv",Logistics,10,0.1,2020-04-21,"Series D",Israel,84,Complete
+Transportation,London,Transportation,206,1,2023-01-17,Unknown,"United Kingdom",2400,Complete
+Finance,Toronto,Finance,26,0.4,2022-12-20,"Series A",Canada,10,Complete
+Other,"Tel Aviv",Other,NULL,1,2022-12-09,"Series A",Israel,25,Incomplete
+Product,Berlin,Product,100,0.3,2022-07-13,"Series B",Germany,89,Complete
+Crypto,"Buenos Aires",Crypto,80,0.45,2022-05-23,"Series A",Argentina,11,Complete
+Product,"Los Angeles",Product,39,0.14,2020-06-04,"Series A","United States",29,Complete
+Recruiting,Chicago,Recruiting,28,NULL,2020-04-10,"Series C","United States",29,Incomplete
+Recruiting,Chicago,Recruiting,50,0.25,2022-10-05,"Series C","United States",29,Complete
+Sales,Boston,Sales,100,NULL,2020-04-30,Acquired,"United States",32,Incomplete
+Crypto,"Hong Kong",Crypto,30,0.08,2022-07-05,Unknown,"Hong Kong",300,Complete
+"Real Estate","SF Bay Area","Real Estate",70,NULL,2022-06-22,"Series C","United States",171,Incomplete
+Transportation,Montreal,Transportation,23,0.32,2020-04-06,"Series B",Canada,21,Complete
+Transportation,"Sao Paulo",Transportation,160,0.3,2022-12-08,"Series C",Brazil,138,Complete
+Media,"New York City",Media,NULL,0.08,2023-02-01,"Series E","United States",80,Incomplete
+Media,"New York City",Media,19,NULL,2020-04-03,"Series E","United States",80,Incomplete
+Media,"New York City",Media,24,0.08,2020-04-03,"Series E","United States",80,Complete
+Food,"New York City",Food,1000,1,2022-07-08,"Series B","United States",50,Complete
+Healthcare,Boston,Healthcare,NULL,0.25,2023-01-04,Post-IPO,"United States",530,Incomplete
+Healthcare,"New Haven",Healthcare,NULL,0.1,2022-08-02,Post-IPO,"United States",530,Incomplete
+Marketing,"New York City",Marketing,48,0.35,2020-04-08,"Series C","United States",64,Complete
+Finance,Amsterdam,Finance,NULL,NULL,2023-01-22,"Series C",Netherlands,115,Incomplete
+Retail,"SF Bay Area",Retail,87,1,2020-07-30,Acquired,"United States",42,Complete
+Media,"New York City",Media,NULL,0.2,2022-06-20,Unknown,"United States",32,Incomplete
+Media,"New York City",Media,180,0.12,2022-12-06,Post-IPO,"United States",696,Complete
+Marketing,"San Diego",Marketing,25,0.25,2020-04-08,Unknown,"United States",NULL,Incomplete
+Crypto,Singapore,Crypto,NULL,NULL,2022-06-20,Unknown,Singapore,NULL,Incomplete
+Crypto,Singapore,Crypto,NULL,0.3,2022-12-03,Unknown,Singapore,NULL,Incomplete
+Crypto,Singapore,Crypto,600,0.3,2022-06-20,Unknown,Singapore,NULL,Incomplete
+Education,Bengaluru,Education,1500,NULL,2023-02-02,"Private Equity",India,5500,Incomplete
+Education,Bengaluru,Education,2500,0.05,2022-10-12,"Private Equity",India,5500,Complete
+Consumer,Mumbai,Consumer,1800,NULL,2021-01-27,Unknown,India,7400,Incomplete
+Consumer,Shanghai,Consumer,NULL,0.1,2023-01-03,Unknown,China,9400,Incomplete
+Consumer,Shanghai,Consumer,150,NULL,2022-06-17,Unknown,China,9400,Incomplete
+Consumer,Shanghai,Consumer,1800,NULL,2021-08-05,Unknown,China,9400,Incomplete
+Transportation,"SF Bay Area",Transportation,NULL,NULL,2020-06-27,"Series C","United States",1200,Incomplete
+Finance,"Kansas City",Finance,20,0.02,2022-12-09,"Series H","United States",537,Complete
+Finance,"Sao Paulo",Finance,NULL,NULL,2023-02-06,Unknown,Brazil,2300,Incomplete
+Finance,"Sao Paulo",Finance,60,0.06,2020-04-06,Unknown,Brazil,NULL,Incomplete
+Travel,"SF Bay Area",Travel,NULL,0.2,2020-03-23,Seed,"United States",3,Incomplete
+"Real Estate","New York City","Real Estate",28,0.25,2020-05-11,"Series C","United States",133,Complete
+Healthcare,"New York City",Healthcare,156,0.24,2022-07-08,"Series B","United States",127,Complete
+Retail,"SF Bay Area",Retail,20,NULL,2020-03-30,"Series A","United States",75,Incomplete
+Media,"SF Bay Area",Media,NULL,0.35,2022-10-25,"Series D","United States",NULL,Incomplete
+Media,"SF Bay Area",Media,140,0.35,2022-07-21,"Series D","United States",NULL,Incomplete
+Healthcare,"SF Bay Area",Healthcare,90,0.2,2022-08-11,"Series C","United States",218,Complete
+Consumer,Chicago,Consumer,80,NULL,2022-11-09,Unknown,"United States",165,Incomplete
+Consumer,Chicago,Consumer,87,0.25,2022-05-04,Unknown,"United States",165,Complete
+Education,Gurugram,Education,NULL,0.7,2023-01-23,"Series A",India,16,Incomplete
+HR,"SF Bay Area",HR,NULL,NULL,2022-09-21,Seed,"United States",5,Incomplete
+Crypto,"New York City",Crypto,33,0.33,2022-11-28,"Series A","United States",100,Complete
+Transportation,"Los Angeles",Transportation,58,0.06,2022-07-01,Post-IPO,"United States",300,Complete
+Retail,Bengaluru,Retail,NULL,NULL,2020-04-02,"Private Equity",India,102,Incomplete
+Finance,"Washington D.C.",Finance,1100,NULL,2023-01-19,Post-IPO,"United States",NULL,Incomplete
+Finance,Cairo,Finance,NULL,NULL,2022-09-09,"Series A",Egypt,33,Incomplete
+Finance,"New York City",Finance,NULL,0.25,2022-11-18,"Series D","United States",281,Incomplete
+Finance,"New York City",Finance,37,0.25,2022-11-17,"Series D","United States",281,Complete
+Healthcare,"New York City",Healthcare,NULL,0.13,2022-07-19,"Series D","United States",570,Incomplete
+Food,Bengaluru,Food,120,NULL,2023-01-15,"Series C",India,126,Incomplete
+Sales,"SF Bay Area",Sales,31,0.1,2022-11-15,"Series C","United States",164,Complete
+Hardware,"SF Bay Area",Hardware,NULL,NULL,2022-10-26,"Series E","United States",683,Incomplete
+Healthcare,"SF Bay Area",Healthcare,200,NULL,2023-01-06,"Series D","United States",522,Incomplete
+Healthcare,"SF Bay Area",Healthcare,250,0.08,2022-06-02,"Series D","United States",522,Complete
+Transportation,Gurugram,Transportation,NULL,NULL,2022-08-03,"Series E",India,497,Incomplete
+Transportation,Gurugram,Transportation,200,NULL,2020-05-25,"Series D",India,247,Incomplete
+Marketing,Atlanta,Marketing,51,NULL,2022-11-14,Post-IPO,"United States",212,Incomplete
+Consumer,Boston,Consumer,81,NULL,2020-04-30,Acquired,"United States",156,Incomplete
+Transportation,Dubai,Transportation,536,0.31,2020-05-04,Acquired,"United Arab Emirates",771,Complete
+Education,"SF Bay Area",Education,22,NULL,2023-01-12,"Series B","United States",51,Incomplete
+Education,"SF Bay Area",Education,60,0.33,2022-07-28,"Series B","United States",51,Complete
+HR,"Los Angeles",HR,NULL,NULL,2023-01-06,"Private Equity","United States",30,Incomplete
+Retail,"Los Angeles",Retail,NULL,NULL,2023-01-25,"Series A","United States",51,Incomplete
+Transportation,Boston,Transportation,130,0.13,2020-04-16,Post-IPO,"United States",1,Complete
+Finance,"Washington D.C.",Finance,NULL,NULL,2022-12-12,"Series C","United States",189,Incomplete
+Retail,Singapore,Retail,110,0.1,2022-12-01,"Private Equity",Singapore,372,Complete
+Transportation,Gurugram,Transportation,600,0.06,2022-05-19,"Series G",India,1300,Complete
+Transportation,"Kuala Lumpur",Transportation,NULL,0.1,2022-09-30,"Series E",Malaysia,607,Incomplete
+Retail,Austin,Retail,NULL,NULL,2023-01-10,Unknown,"United States",383,Incomplete
+Finance,"SF Bay Area",Finance,161,0.16,2020-04-15,"Series E","United States",447,Complete
+HR,"SF Bay Area",HR,NULL,0.1,2023-01-11,"Series G","United States",1100,Incomplete
+Transportation,Phoenix,Transportation,NULL,NULL,2023-01-13,Post-IPO,"United States",1600,Incomplete
+Transportation,Phoenix,Transportation,1500,0.08,2022-11-18,Post-IPO,"United States",1600,Complete
+Transportation,London,Transportation,70,0.2,2022-11-25,Unknown,"United Kingdom",157,Complete
+"Real Estate",Milan,"Real Estate",NULL,0.3,2023-02-13,Unknown,Italy,708,Incomplete
+Finance,Bengaluru,Finance,100,NULL,2023-01-12,"Series B",India,41,Incomplete
+Retail,"New York City",Retail,NULL,NULL,2021-09-14,Post-IPO,"United States",339,Incomplete
+Retail,"New York City",Retail,78,0.21,2020-04-21,Post-IPO,"United States",339,Complete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.13,2020-05-04,Post-IPO,"United States",184,Incomplete
+Other,Boston,Other,30,NULL,2020-03-30,"Series E","United States",110,Incomplete
+Support,"New York City",Support,NULL,NULL,2022-07-21,"Series B","United States",45,Incomplete
+Retail,Melbourne,Retail,100,NULL,2023-02-06,Acquired,Australia,80,Incomplete
+Transportation,London,Transportation,NULL,NULL,2023-01-18,Post-IPO,"United Kingdom",2000,Incomplete
+Transportation,London,Transportation,750,0.15,2022-06-07,Post-IPO,"United Kingdom",2000,Complete
+Healthcare,"New York City",Healthcare,NULL,0.24,2022-07-07,"Series D","United States",351,Incomplete
+Crypto,"New York City",Crypto,150,0.25,2022-07-03,"Series B","United States",864,Complete
+Healthcare,Philadelphia,Healthcare,NULL,NULL,2023-01-09,Post-IPO,"United States",560,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-05-31,"Series C","United States",462,Incomplete
+Healthcare,"SF Bay Area",Healthcare,285,0.15,2023-02-27,"Series C","United States",462,Complete
+Healthcare,"SF Bay Area",Healthcare,400,0.2,2022-10-24,"Series C","United States",462,Complete
+Crypto,"New York City",Crypto,44,0.05,2023-02-01,"Series F","United States",536,Complete
+Finance,Amsterdam,Finance,NULL,0.24,2022-11-27,Unknown,Netherlands,22,Incomplete
+Other,"SF Bay Area",Other,NULL,0.19,2022-07-28,"Series D","United States",72,Incomplete
+Finance,"SF Bay Area",Finance,142,0.1,2022-11-02,"Series H","United States",468,Complete
+Security,"Tel Aviv",Security,NULL,NULL,2020-05-18,Acquired,Israel,92,Incomplete
+Security,"Tel Aviv",Security,100,0.1,2022-11-02,"Series C",Israel,92,Complete
+Finance,London,Finance,100,0.05,2022-09-13,"Series D","United Kingdom",1800,Complete
+HR,"SF Bay Area",HR,64,0.12,2020-07-23,"Series D","United States",309,Complete
+Media,"New York City",Media,NULL,NULL,2020-04-24,Acquired,"United States",54,Incomplete
+Food,"SF Bay Area",Food,NULL,NULL,2020-10-25,"Series B","United States",67,Incomplete
+Infrastructure,Seattle,Infrastructure,NULL,NULL,2020-10-08,Acquired,"United States",105,Incomplete
+Consumer,London,Consumer,29,NULL,2022-07-04,Acquired,"United Kingdom",0,Incomplete
+Sales,"New York City",Sales,58,NULL,2022-11-17,"Series B","United States",54,Incomplete
+Finance,"SF Bay Area",Finance,156,0.12,2022-11-02,"Series G","United States",2300,Complete
+Finance,Santiago,Finance,NULL,NULL,2022-11-11,Seed,Chile,2,Incomplete
+Finance,"SF Bay Area",Finance,50,0.125,2022-12-06,"Series C","United States",302,Complete
+Finance,"SF Bay Area",Finance,100,0.33,2023-02-17,"Series C","United States",302,Complete
+Food,Singapore,Food,65,0.24,2022-12-20,"Series E",Singapore,50,Complete
+Food,"Los Angeles",Food,40,0.1,2022-12-14,"Series C","United States",64,Complete
+Food,"Los Angeles",Food,100,0.2,2022-07-13,"Series C","United States",64,Complete
+Retail,Karlsruhe,Retail,65,0.13,2023-01-30,"Series C",Germany,205,Complete
+Retail,Karlsruhe,Retail,80,NULL,2022-12-08,"Series C",Germany,205,Incomplete
+Crypto,"SF Bay Area",Crypto,NULL,NULL,2020-04-09,Unknown,"United States",18,Incomplete
+Transportation,Berlin,Transportation,100,NULL,2020-06-02,Acquired,Germany,55,Incomplete
+Product,"SF Bay Area",Product,NULL,0.17,2022-12-07,"Series F","United States",315,Incomplete
+Finance,"SF Bay Area",Finance,NULL,NULL,2022-07-13,"Series C","United States",53,Incomplete
+Healthcare,Columbus,Healthcare,NULL,0.5,2022-06-16,"Series A","United States",50,Incomplete
+Infrastructure,"SF Bay Area",Infrastructure,4100,0.05,2022-11-16,Post-IPO,"United States",2,Complete
+Consumer,"New York City",Consumer,33,NULL,2023-01-11,"Series C","United States",133,Incomplete
+Data,"SF Bay Area",Data,22,0.27,2023-01-20,"Series C","United States",64,Complete
+Infrastructure,Miami,Infrastructure,NULL,0.15,2023-01-10,Acquired,"United States",20,Incomplete
+Retail,Gurugram,Retail,191,0.3,2022-06-19,"Series C",India,112,Complete
+Marketing,"Salt Lake City",Marketing,NULL,NULL,2020-03-31,Seed,"United States",4,Incomplete
+Sales,"SF Bay Area",Sales,20,NULL,2023-02-06,"Series F","United States",496,Incomplete
+Sales,"SF Bay Area",Sales,45,NULL,2022-08-31,"Series F","United States",496,Incomplete
+Healthcare,"SF Bay Area",Healthcare,15,0.05,2022-07-22,"Series D","United States",328,Complete
+Education,Chicago,Education,NULL,NULL,2022-08-01,Seed,"United States",1,Incomplete
+Fitness,"New York City",Fitness,154,0.22,2020-04-02,"Series E","United States",549,Complete
+Finance,Bengaluru,Finance,190,0.2,2022-09-16,"Series C",India,140,Complete
+"Real Estate",Reno,"Real Estate",250,0.25,2023-01-25,Unknown,"United States",NULL,Incomplete
+"Real Estate",Reno,"Real Estate",378,0.27,2022-10-14,Unknown,"United States",NULL,Incomplete
+Finance,Toronto,Finance,17,0.08,2020-04-13,"Series B",Canada,119,Complete
+Data,"SF Bay Area",Data,NULL,NULL,2020-04-22,"Series A","United States",17,Incomplete
+Finance,Dublin,Finance,NULL,NULL,2022-06-06,"Series C",Ireland,681,Incomplete
+Fin-Tech,Toronto,Fin-Tech,125,0.25,2022-07-29,"Series C",Canada,681,Complete
+Finance,Toronto,Finance,50,0.3,2023-01-16,"Series C",Canada,698,Complete
+Finance,Toronto,Finance,60,NULL,2022-06-06,"Series C",Canada,681,Incomplete
+"Real Estate","St. Louis","Real Estate",NULL,NULL,2022-10-19,"Series B","United States",13,Incomplete
+"Real Estate","St. Louis","Real Estate",NULL,NULL,2020-03-25,"Series A","United States",5,Incomplete
+Marketing,Mumbai,Marketing,60,0.2,2020-04-16,"Series C",India,76,Complete
+Other,"San Diego",Other,60,0.07,2022-05-23,"Series C","United States",537,Complete
+Support,"Ann Arbor",Support,40,0.32,2020-04-09,"Series B","United States",59,Complete
+Infrastructure,"SF Bay Area",Infrastructure,NULL,NULL,2020-05-05,Post-IPO,"United States",1000,Incomplete
+Data,Nairobi,Data,NULL,0.12,2022-11-09,"Private Equity",Kenya,78,Incomplete
+Media,"SF Bay Area",Media,40,0.08,2022-11-14,Unknown,"United States",100,Complete
+"Real Estate","Los Angeles","Real Estate",NULL,NULL,2022-11-03,Unknown,"United States",1300,Incomplete
+Consumer,"SF Bay Area",Consumer,NULL,NULL,2022-06-03,"Series C","United States",110,Incomplete
+Healthcare,Berlin,Healthcare,31,0.31,2023-01-18,Unknown,Germany,47,Complete
+Data,"SF Bay Area",Data,NULL,NULL,2021-03-01,"Series C","United States",186,Incomplete
+Transportation,Toronto,Transportation,76,0.22,2022-06-29,"Series B",Canada,153,Complete
+Transportation,Toronto,Transportation,150,NULL,2023-01-17,Unknown,Canada,253,Incomplete
+Consumer,"Los Angeles",Consumer,NULL,0.3,2020-03-25,"Series D","United States",296,Incomplete
+Marketing,"New York City",Marketing,22,NULL,2022-04-25,"Series B","United States",58,Incomplete
+Media,"SF Bay Area",Media,12,0.1,2023-03-02,Acquired,"United States",20,Complete
+HR,Berlin,HR,NULL,0.1,2023-01-24,"Series C",Germany,332,Incomplete
+Other,"SF Bay Area",Other,NULL,NULL,2023-01-18,"Series D","United States",240,Incomplete
+Data,Minneapolis,Data,25,0.05,2020-04-09,"Series B","United States",138,Complete
+Security,Minneapolis,Security,NULL,0.15,2022-11-07,Unknown,"United States",137,Incomplete
+Education,"SF Bay Area",Education,8,NULL,2020-10-23,"Series A","United States",8,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.18,2022-11-29,Post-IPO,"United States",162,Incomplete
+Education,Seattle,Education,7,0.07,2020-04-02,Unknown,"United States",2,Complete
+Support,Boston,Support,24,0.14,2020-04-06,"Series C","United States",92,Complete
+Security,"Tel Aviv",Security,100,0.05,2022-12-02,Unknown,Israel,NULL,Incomplete
+Data,"SF Bay Area",Data,NULL,NULL,2020-04-30,"Series E","United States",660,Incomplete
+Crypto,"SF Bay Area",Crypto,60,NULL,2022-11-10,Post-IPO,"United States",549,Incomplete
+Crypto,"SF Bay Area",Crypto,950,0.2,2023-01-10,Post-IPO,"United States",549,Complete
+Crypto,"SF Bay Area",Crypto,1100,0.18,2022-06-14,Post-IPO,"United States",549,Complete
+Crypto,Mumbai,Crypto,80,NULL,2023-01-11,"Series D",India,244,Incomplete
+Crypto,Victoria,Crypto,NULL,NULL,2022-07-29,Unknown,Seychelles,11,Incomplete
+Crypto,Melbourne,Crypto,10,0.2,2022-11-29,Unknown,Australia,1,Complete
+Crypto,Toronto,Crypto,30,0.24,2022-07-27,Unknown,Canada,98,Complete
+Crypto,"SF Bay Area",Crypto,19,NULL,2023-01-28,"Series A","United States",101,Incomplete
+Healthcare,"SF Bay Area",Healthcare,54,NULL,2023-02-13,"Series F","United States",719,Incomplete
+Data,Brussels,Data,NULL,NULL,2022-10-19,"Series G",Belgium,596,Incomplete
+Healthcare,"SF Bay Area",Healthcare,300,NULL,2023-03-01,"Series E","United States",482,Incomplete
+Energy,Boston,Energy,97,NULL,2022-05-04,"Series A","United States",41,Incomplete
+Retail,Huntsville,Retail,NULL,NULL,2022-06-29,Unknown,"United States",NULL,Incomplete
+Retail,Albany,Retail,371,0.31,2023-02-14,Acquired,"United States",NULL,Incomplete
+Finance,"New York City",Finance,NULL,1,2022-09-09,"Series D","United States",125,Incomplete
+Finance,"New York City",Finance,22,NULL,2022-05-13,"Series D","United States",130,Incomplete
+Marketing,"Los Angeles",Marketing,40,0.3,2022-06-21,Unknown,"United States",40,Complete
+"Real Estate","New York City","Real Estate",NULL,NULL,2023-01-05,Post-IPO,"United States",1600,Incomplete
+"Real Estate","New York City","Real Estate",271,NULL,2022-09-20,Post-IPO,"United States",1600,Incomplete
+"Real Estate","New York City","Real Estate",375,0.15,2020-03-23,"Series G","United States",1600,Complete
+"Real Estate","New York City","Real Estate",450,0.1,2022-06-14,Post-IPO,"United States",1600,Complete
+HR,"Tel Aviv",HR,11,0.28,2022-09-12,"Series A",Israel,17,Complete
+Data,"SF Bay Area",Data,221,0.08,2023-01-26,Post-IPO,"United States",455,Complete
+Data,Denver,Data,NULL,0.11,2020-06-15,Acquired,"United States",117,Incomplete
+Product,Toronto,Product,17,0.1,2020-04-08,Unknown,Canada,NULL,Incomplete
+Crypto,"New York City",Crypto,91,0.14,2020-04-20,Unknown,"United States",10,Complete
+Crypto,"New York City",Crypto,100,0.11,2023-01-10,"Series D","United States",726,Complete
+Other,"SF Bay Area",Other,13,1,2020-03-26,Seed,"United States",5,Complete
+Education,Joinville,Education,140,0.35,2020-04-17,"Series D",Brazil,37,Complete
+Healthcare,"New York City",Healthcare,16,0.37,2022-08-15,Post-IPO,"United States",380,Complete
+"Real Estate","New York City","Real Estate",NULL,NULL,2022-12-10,Unknown,"United States",281,Incomplete
+"Real Estate","New York City","Real Estate",150,0.18,2020-03-23,"Series D","United States",280,Complete
+Logistics,Atlanta,Logistics,NULL,NULL,2023-02-16,"Series E","United States",1100,Incomplete
+Logistics,Seattle,Logistics,NULL,NULL,2022-10-25,"Series E","United States",1100,Incomplete
+Logistics,Seattle,Logistics,NULL,0.01,2020-04-23,"Series D","United States",665,Incomplete
+Logistics,Seattle,Logistics,90,0.07,2022-06-09,"Series E","United States",1100,Complete
+Marketing,"SF Bay Area",Marketing,35,NULL,2020-04-02,"Series C","United States",102,Incomplete
+Crypto,Austin,Crypto,NULL,0.1,2022-08-12,Post-IPO,"United States",169,Incomplete
+Finance,Boston,Finance,NULL,0.14,2023-01-24,"Series C","United States",160,Incomplete
+Marketing,Bismarck,Marketing,NULL,NULL,2023-01-13,Unknown,"United States",2,Incomplete
+Construction,Berlin,Construction,NULL,NULL,2022-07-14,"Series B",Germany,45,Incomplete
+Finance,Cincinnati,Finance,30,0.2,2022-05-25,"Series B","United States",70,Complete
+Education,"SF Bay Area",Education,NULL,NULL,2022-11-09,Post-IPO,"United States",458,Incomplete
+Marketing,Boston,Marketing,20,0.2,2020-04-01,"Series A","United States",16,Complete
+Manufacturing,"SF Bay Area",Manufacturing,NULL,NULL,2023-01-06,Unknown,"United States",NULL,Incomplete
+Finance,"SF Bay Area",Finance,22,0.14,2020-06-03,"Series F","United States",120,Complete
+Finance,"Sao Paulo",Finance,NULL,0.06,2020-04-08,"Series D",Brazil,314,Incomplete
+Education,Lima,Education,NULL,NULL,2022-06-15,"Series B",Peru,93,Incomplete
+Education,Bengaluru,Education,170,1,2022-06-30,Seed,India,3,Complete
+Marketing,Paris,Marketing,NULL,NULL,2023-02-21,Post-IPO,France,61,Incomplete
+Marketing,Toronto,Marketing,NULL,NULL,2020-04-16,"Series A",Canada,11,Incomplete
+"Real Estate",Portland,"Real Estate",24,0.22,2020-06-01,"Series C","United States",24,Complete
+Transportation,"SF Bay Area",Transportation,150,0.08,2020-05-14,Acquired,"United States",5300,Complete
+Media,Tokyo,Media,85,NULL,2023-02-21,Unknown,Japan,26,Incomplete
+Crypto,Singapore,Crypto,NULL,NULL,2022-08-16,Unknown,Singapore,156,Incomplete
+Crypto,Singapore,Crypto,NULL,0.2,2023-01-12,Unknown,"United States",NULL,Incomplete
+Crypto,Singapore,Crypto,260,0.05,2022-06-10,Unknown,Singapore,156,Complete
+Crypto,Singapore,Crypto,2000,0.3,2022-10-06,Unknown,Singapore,156,Complete
+Legal,Austin,Legal,62,0.09,2023-01-19,Post-IPO,"United States",233,Complete
+Infrastructure,Vancouver,Infrastructure,30,0.5,2020-03-20,Seed,Canada,7,Complete
+Healthcare,"San Diego",Healthcare,170,NULL,2022-06-27,Post-IPO,"United States",999,Incomplete
+Healthcare,"San Diego",Healthcare,388,NULL,2023-01-05,Post-IPO,"United States",999,Incomplete
+HR,Melbourne,HR,36,0.08,2020-05-28,"Series E",Australia,157,Complete
+Media,London,Media,95,0.32,2020-05-01,"Series B","United Kingdom",102,Complete
+Healthcare,"Los Angeles",Healthcare,109,NULL,2022-09-20,Seed,"United States",8,Incomplete
+Fitness,Bengaluru,Fitness,120,NULL,2020-07-17,"Series D",India,405,Incomplete
+Fitness,Bengaluru,Fitness,800,0.16,2020-05-04,"Series D",India,404,Complete
+Healthcare,"SF Bay Area",Healthcare,150,NULL,2022-03-16,"Series D","United States",19,Incomplete
+Finance,"Los Angeles",Finance,NULL,NULL,2020-04-01,Unknown,"United States",NULL,Incomplete
+Finance,London,Finance,65,0.1,2022-06-01,"Series C","United Kingdom",182,Complete
+Retail,"SF Bay Area",Retail,NULL,NULL,2020-03-30,"Series C","United States",31,Incomplete
+Marketing,"Washington D.C.",Marketing,400,0.1,2020-05-21,Acquired,"United States",146,Complete
+Finance,"SF Bay Area",Finance,NULL,NULL,2022-06-07,"Series B","United States",35,Incomplete
+Security,Boston,Security,100,0.06,2022-06-01,"Series F","United States",750,Complete
+Security,Boston,Security,200,0.17,2022-10-26,"Series F","United States",750,Complete
+Security,"SF Bay Area",Security,30,0.15,2022-12-08,"Series C","United States",153,Complete
+Product,Atlanta,Product,NULL,NULL,2023-01-18,"Series B","United States",54,Incomplete
+Security,"Washington D.C.",Security,121,NULL,2023-02-01,Post-IPO,"United States",161,Incomplete
+Healthcare,Boston,Healthcare,NULL,0.7,2023-01-20,"Series C","United States",156,Incomplete
+Infrastructure,"SF Bay Area",Infrastructure,34,0.13,2020-04-03,"Series D","United States",247,Complete
+Education,Waterloo,Education,NULL,0.05,2022-11-16,Post-IPO,Canada,168,Incomplete
+Food,"New York City",Food,NULL,0.15,2022-08-08,"Series D","United States",120,Incomplete
+Food,"New York City",Food,60,0.2,2022-02-10,"Series D","United States",120,Complete
+Finance,"New York City",Finance,NULL,0.15,2022-08-09,Unknown,"United States",814,Incomplete
+Data,"New Delhi",Data,40,NULL,2022-05-27,"Series A",India,23,Incomplete
+Transportation,Berlin,Transportation,NULL,0.16,2022-11-16,Unknown,Germany,63,Incomplete
+Retail,Stockholm,Retail,200,0.15,2022-06-09,Unknown,Sweden,NULL,Incomplete
+Crypto,Vancouver,Crypto,NULL,0.2,2023-02-23,"Series D","United States",607,Incomplete
+Crypto,Vancouver,Crypto,134,0.22,2022-11-02,"Series D","United States",607,Complete
+Retail,Singapore,Retail,NULL,0.11,2023-02-06,Unknown,Singapore,NULL,Incomplete
+Product,"SF Bay Area",Product,6,1,2020-06-23,Seed,"United States",3,Complete
+Finance,"Tel Aviv",Finance,30,0.18,2022-12-05,"Series B",Israel,103,Complete
+Data,Boston,Data,NULL,NULL,2022-08-08,"Series G","United States",1000,Incomplete
+Data,Boston,Data,NULL,0.26,2022-08-23,"Series G","United States",1000,Incomplete
+Data,Boston,Data,70,0.07,2022-05-11,"Series G","United States",1000,Complete
+Data,Boston,Data,200,NULL,2020-03-27,"Series E","United States",430,Incomplete
+Data,"SF Bay Area",Data,15,NULL,2020-04-14,"Series E","United States",190,Incomplete
+Infrastructure,"SF Bay Area",Infrastructure,NULL,0.1,2020-05-18,"Series C","United States",63,Incomplete
+Infrastructure,Norwalk,Infrastructure,NULL,NULL,2020-05-12,Acquired,"United States",100,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-09-15,"Series B","United States",90,Incomplete
+Consumer,London,Consumer,50,0.02,2022-05-26,Unknown,"United Kingdom",NULL,Incomplete
+Retail,Bengaluru,Retail,100,0.06,2023-01-27,"Series E",India,390,Complete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2023-01-27,"Series A","United States",18,Incomplete
+Security,"New York City",Security,NULL,0.1,2022-06-06,"Series D","United States",259,Incomplete
+Data,Seattle,Data,NULL,NULL,2022-02-07,"Series B","United States",78,Incomplete
+Healthcare,Boston,Healthcare,55,0.06,2023-01-12,Post-IPO,"United States",NULL,Incomplete
+Education,"SF Bay Area",Education,NULL,0.15,2022-06-29,"Series D","United States",411,Incomplete
+Food,Gurugram,Food,NULL,NULL,2022-08-01,"Series D",India,194,Incomplete
+Food,Patna,Food,NULL,0.05,2023-01-15,"Series E",India,254,Incomplete
+Retail,"SF Bay Area",Retail,669,1,2020-05-13,"Series C","United States",80,Complete
+Food,London,Food,350,0.09,2023-02-09,Post-IPO,"United Kingdom",1700,Complete
+Food,London,Food,367,0.15,2020-04-28,"Series G","United Kingdom",1500,Complete
+Food,Melbourne,Food,120,1,2022-11-15,Post-IPO,Australia,1700,Complete
+Food,Berlin,Food,100,NULL,2022-11-03,Post-IPO,Germany,8300,Incomplete
+Food,Berlin,Food,156,0.04,2023-01-30,Post-IPO,Germany,9900,Complete
+Food,Berlin,Food,300,NULL,2021-12-22,Post-IPO,Germany,8300,Incomplete
+Hardware,Austin,Hardware,6650,0.05,2023-02-06,Post-IPO,"United States",NULL,Incomplete
+Sales,"SF Bay Area",Sales,27,0.03,2022-09-07,"Series H","United States",143,Complete
+HR,Sydney,HR,60,0.3,2020-05-04,"Series B",Australia,106,Complete
+Data,"Santa Fe",Data,12,0.16,2020-06-02,"Series B","United States",58,Complete
+Other,Boston,Other,NULL,NULL,2023-02-02,Post-IPO,"United States",811,Incomplete
+Other,Boston,Other,NULL,NULL,2020-04-28,"Series E","United States",436,Incomplete
+Other,Boston,Other,NULL,0.12,2022-06-13,Post-IPO,"United States",811,Incomplete
+Security,Boston,Security,NULL,0.15,2022-11-21,"Series F","United States",481,Incomplete
+Marketing,Sacramento,Marketing,5,0.14,2020-03-31,"Series B","United States",26,Complete
+Other,Portland,Other,NULL,NULL,2023-02-17,Post-IPO,"United States",105,Incomplete
+Crypto,Stamford,Crypto,10,0.13,2022-11-02,Unknown,"United States",NULL,Incomplete
+Crypto,Brisbane,Crypto,NULL,1,2022-12-09,Unknown,Australia,NULL,Incomplete
+Infrastructure,"New York City",Infrastructure,200,0.11,2023-02-15,Post-IPO,"United States",491,Complete
+Legal,Austin,Legal,75,NULL,2020-03-27,"Series E","United States",133,Incomplete
+Other,Boston,Other,NULL,0.38,2020-04-17,"Series A","United States",18,Incomplete
+Transportation,"Los Angeles",Transportation,57,0.36,2020-04-24,"Series B","United States",88,Complete
+Finance,"Salt Lake City",Finance,NULL,NULL,2020-05-19,"Series C","United States",252,Incomplete
+"Real Estate","SF Bay Area","Real Estate",NULL,NULL,2023-02-15,"Series B","United States",180,Incomplete
+"Real Estate","SF Bay Area","Real Estate",NULL,0.08,2020-03-25,"Series B","United States",180,Incomplete
+"Real Estate","SF Bay Area","Real Estate",40,0.12,2022-09-27,"Series B","United States",180,Complete
+Healthcare,Davenport,Healthcare,62,NULL,2022-05-06,Acquired,"United States",0,Incomplete
+Consumer,"SF Bay Area",Consumer,NULL,NULL,2021-02-24,Unknown,"United States",105,Incomplete
+Consumer,Shenzen,Consumer,NULL,NULL,2020-08-17,Unknown,China,105,Incomplete
+Finance,"Sao Paulo",Finance,190,0.12,2022-11-07,"Private Equity",Brazil,280,Complete
+Healthcare,London,Healthcare,8,0.8,2020-08-19,Seed,"United Kingdom",16,Complete
+Sales,"SF Bay Area",Sales,671,0.09,2022-09-28,Post-IPO,"United States",536,Complete
+Sales,"SF Bay Area",Sales,680,0.1,2023-02-16,Post-IPO,"United States",536,Complete
+Finance,"SF Bay Area",Finance,250,0.13,2022-08-04,Post-IPO,"United States",679,Complete
+Finance,"SF Bay Area",Finance,310,0.15,2022-05-10,Post-IPO,"United States",679,Complete
+Finance,"SF Bay Area",Finance,515,0.4,2022-12-06,Post-IPO,"United States",679,Complete
+Education,"SF Bay Area",Education,150,0.19,2022-04-28,"Series D","United States",130,Complete
+Data,"SF Bay Area",Data,NULL,0.25,2022-11-07,"Series F","United States",223,Incomplete
+"Real Estate","New York City","Real Estate",NULL,0.5,2020-11-18,"Series B","United States",116,Incomplete
+Travel,"New York City",Travel,NULL,0.3,2020-03-31,"Series B","United States",116,Incomplete
+Data,"Salt Lake City",Data,90,0.1,2020-04-09,Post-IPO,"United States",689,Complete
+Sales,Vancouver,Sales,12,NULL,2022-08-09,"Series B",Canada,102,Incomplete
+Food,"SF Bay Area",Food,1250,0.06,2022-11-30,Post-IPO,"United States",2500,Complete
+Product,London,Product,10,1,2020-05-19,Unknown,"United Kingdom",NULL,Incomplete
+Recruiting,"SF Bay Area",Recruiting,23,0.3,2022-07-26,"Series A","United States",22,Complete
+Consumer,Boston,Consumer,140,0.04,2023-02-01,Post-IPO,"United States",719,Complete
+Education,Seattle,Education,NULL,NULL,2022-09-09,Acquired,"United States",175,Incomplete
+Marketing,Boston,Marketing,59,NULL,2023-02-06,Acquired,"United States",107,Incomplete
+Marketing,"Salt Lake City",Marketing,20,NULL,2020-03-23,Acquired,"United States",0,Incomplete
+Finance,"Jersey City",Finance,NULL,0.2,2023-01-26,"Series D","United States",550,Incomplete
+Marketing,Toronto,Marketing,24,NULL,2022-11-01,"Series B",Canada,56,Incomplete
+Other,"SF Bay Area",Other,315,0.15,2021-01-13,Post-IPO,"United States",1700,Complete
+Retail,"Salt Lake City",Retail,12,NULL,2020-04-03,"Series A","United States",4,Incomplete
+Other,Raleigh,Other,NULL,0.2,2020-04-15,Acquired,"United States",100,Incomplete
+Retail,Bengaluru,Retail,23,NULL,2022-10-31,"Series A",India,17,Incomplete
+Food,Bengaluru,Food,NULL,0.03,2023-01-16,Unknown,India,382,Incomplete
+Other,Bend,Other,50,0.07,2022-06-06,"Series D","United States",603,Complete
+Education,Bengaluru,Education,NULL,1,2023-02-28,Unknown,India,NULL,Incomplete
+HR,"SF Bay Area",HR,35,0.19,2020-04-02,"Series E","United States",114,Complete
+Finance,"SF Bay Area",Finance,50,0.2,2020-04-01,"Series C","United States",190,Complete
+Transportation,Nashville,Transportation,NULL,1,2023-01-19,Unknown,"United States",2,Incomplete
+Logistics,"Salt Lake City",Logistics,75,NULL,2020-03-11,"Series A","United States",12,Incomplete
+Logistics,"SF Bay Area",Logistics,50,0.25,2020-04-13,"Series A","United States",12,Complete
+Food,"SF Bay Area",Food,40,NULL,2023-02-24,Unknown,"United States",465,Incomplete
+Food,Singapore,Food,20,1,2020-08-08,Seed,Singapore,1,Complete
+Consumer,"SF Bay Area",Consumer,25,NULL,2022-06-01,"Series D","United States",202,Incomplete
+Finance,Curitiba,Finance,62,0.08,2020-05-27,Unknown,Brazil,30,Complete
+Finance,Curitiba,Finance,340,0.2,2022-06-21,"Series B",Brazil,460,Complete
+Retail,"SF Bay Area",Retail,500,0.04,2023-02-07,Post-IPO,"United States",1200,Complete
+Energy,Toronto,Energy,47,0.1,2020-03-26,"Series C",Canada,149,Complete
+"Real Estate","New York City","Real Estate",40,0.4,2020-04-08,"Series B","United States",40,Complete
+Infrastructure,Phoenix,Infrastructure,95,0.1,2022-12-13,Post-IPO,"United States",462,Complete
+Healthcare,Seattle,Healthcare,30,NULL,2023-01-20,Unknown,"United States",1,Incomplete
+Healthcare,Boston,Healthcare,NULL,0.2,2023-01-09,Post-IPO,"United States",656,Incomplete
+Education,"SF Bay Area",Education,NULL,1,2022-08-16,Acquired,"United States",77,Incomplete
+Fitness,Munich,Fitness,100,0.25,2020-04-02,"Series D",Germany,109,Complete
+Retail,"New York City",Retail,NULL,0.2,2020-03-23,"Series C","United States",70,Incomplete
+Recruiting,"SF Bay Area",Recruiting,84,1,2020-03-19,Unknown,"United States",NULL,Incomplete
+Data,"SF Bay Area",Data,NULL,0.13,2022-11-30,Post-IPO,"United States",162,Incomplete
+Other,"New York City",Other,81,NULL,2022-08-30,"Series D","United States",212,Incomplete
+Other,"New York City",Other,141,0.25,2023-02-13,"Series D","United States",212,Complete
+Consumer,"Baton Rouge",Consumer,200,NULL,2023-02-28,Post-IPO,"United States",2,Incomplete
+Other,London,Other,NULL,0.15,2022-12-25,"Series B","United Kingdom",96,Incomplete
+Other,Montreal,Other,62,0.15,2020-05-04,"Series B",Canada,257,Complete
+Data,"SF Bay Area",Data,10,NULL,2020-03-25,"Series A","United States",22,Incomplete
+Media,"Tel Aviv",Media,60,0.15,2022-06-15,Unknown,Israel,65,Complete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-12-05,"Series B","United States",323,Incomplete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-07-18,"Series B","United States",323,Incomplete
+Finance,Berlin,Finance,43,0.33,2022-10-21,Unknown,Germany,30,Complete
+Crypto,London,Crypto,NULL,0.3,2020-04-09,"Series B","United Kingdom",40,Incomplete
+Healthcare,Boston,Healthcare,41,NULL,2023-01-11,"Series B","United States",94,Incomplete
+Transportation,"SF Bay Area",Transportation,230,0.7,2023-03-03,Post-IPO,"United States",317,Complete
+Finance,"SF Bay Area",Finance,30,0.12,2022-10-25,"Series C","United States",142,Complete
+Energy,London,Energy,NULL,NULL,2022-10-11,"Series A","United Kingdom",16,Incomplete
+Marketing,"Los Angeles",Marketing,30,0.18,2022-07-07,"Series B","United States",78,Complete
+Marketing,"New York City",Marketing,100,1,2023-02-13,Unknown,"United States",NULL,Incomplete
+Retail,Fayetteville,Retail,NULL,1,2020-06-28,Unknown,"United States",4,Incomplete
+Retail,"Sao Paulo",Retail,31,0.1,2023-01-20,Unknown,Brazil,14,Complete
+Retail,"SF Bay Area",Retail,400,0.18,2022-06-30,Post-IPO,"United States",310,Complete
+Marketing,Melbourne,Marketing,100,NULL,2022-06-02,Unknown,Australia,NULL,Incomplete
+HR,"SF Bay Area",HR,58,0.3,2020-04-14,"Series B","United States",59,Complete
+Finance,"SF Bay Area",Finance,24,0.25,2023-02-08,"Series B","United States",85,Complete
+Finance,"SF Bay Area",Finance,25,0.2,2022-10-31,"Series B","United States",85,Complete
+Finance,"New York City",Finance,30,0.27,2022-10-31,"Series B","United States",11,Complete
+Other,Stockholm,Other,8500,0.08,2023-02-24,Post-IPO,Sweden,663,Complete
+Security,"SF Bay Area",Security,30,0.17,2023-01-23,"Series B","United States",97,Complete
+Education,Mumbai,Education,40,NULL,2022-06-04,"Series E",India,1200,Incomplete
+Education,Boston,Education,NULL,NULL,2022-06-02,Unknown,"United States",37,Incomplete
+Other,Seattle,Other,NULL,0.12,2022-06-23,"Series A","United States",10,Incomplete
+Other,Seattle,Other,NULL,0.21,2023-01-10,"Series A","United States",10,Incomplete
+Other,"Buenos Aires",Other,40,NULL,2022-11-30,Unknown,Argentina,NULL,Incomplete
+Finance,"SF Bay Area",Finance,18,0.14,2020-06-05,"Series C","United States",106,Complete
+Finance,"SF Bay Area",Finance,40,0.12,2022-06-24,"Series D","United States",406,Complete
+Finance,"SF Bay Area",Finance,50,NULL,2023-02-21,"Series D","United States",406,Incomplete
+Finance,"Tel Aviv",Finance,100,0.06,2022-07-05,Unknown,Israel,322,Complete
+Healthcare,Sydney,Healthcare,50,0.2,2022-07-22,"Series C","United States",69,Complete
+Consumer,"SF Bay Area",Consumer,80,0.08,2023-02-28,Post-IPO,"United States",557,Complete
+Consumer,"SF Bay Area",Consumer,500,0.45,2020-04-08,Post-IPO,"United States",332,Complete
+Other,Boston,Other,200,NULL,2022-11-08,Post-IPO,"United States",476,Incomplete
+Retail,"SF Bay Area",Retail,30,0.17,2023-01-05,Unknown,"United States",176,Complete
+Retail,"SF Bay Area",Retail,227,NULL,2020-03-27,Unknown,"United States",18,Incomplete
+Consumer,"SF Bay Area",Consumer,129,NULL,2023-02-17,Acquired,"United States",290,Incomplete
+Transportation,"Los Angeles",Transportation,40,NULL,2023-02-23,Post-IPO,"United States",400,Incomplete
+Crypto,"Nebraska City",Crypto,59,0.22,2022-11-04,Unknown,"United States",60,Complete
+Support,Bengaluru,Support,142,0.15,2023-01-17,"Series D",India,87,Complete
+Recruiting,Sydney,Recruiting,7,NULL,2022-08-11,"Series C",Australia,26,Incomplete
+Legal,Portland,Legal,24,0.03,2023-02-01,"Private Equity","United States",100,Complete
+Security,Seattle,Security,NULL,NULL,2022-10-13,"Series C","United States",61,Incomplete
+Security,Seattle,Security,NULL,NULL,2020-04-22,"Series C","United States",61,Incomplete
+Food,Boston,Food,400,0.44,2020-04-07,"Series D","United States",319,Complete
+Security,Seattle,Security,100,0.01,2022-10-21,Post-IPO,"United States",NULL,Incomplete
+Travel,"New Delhi",Travel,80,0.2,2020-03-30,"Series B",India,48,Complete
+Logistics,"New York City",Logistics,120,0.4,2022-07-13,"Series C","United States",336,Complete
+Retail,"Sao Paulo",Retail,260,0.3,2022-04-20,"Series D",Brazil,502,Complete
+Retail,"SF Bay Area",Retail,84,0.07,2022-10-18,"Series G","United States",1700,Complete
+Media,"SF Bay Area",Media,NULL,NULL,2023-01-19,"Series E","United States",145,Incomplete
+Media,"SF Bay Area",Media,NULL,0.14,2020-04-30,"Series E","United States",145,Incomplete
+Travel,Gurugram,Travel,200,NULL,2020-03-26,Unknown,India,NULL,Incomplete
+Logistics,"New Delhi",Logistics,90,NULL,2023-02-03,"Series E",India,150,Incomplete
+Logistics,"New Delhi",Logistics,250,0.3,2022-06-10,"Series E",India,150,Complete
+Finance,"SF Bay Area",Finance,NULL,1,2022-04-05,"Series B","United States",124,Incomplete
+Healthcare,"San Diego",Healthcare,315,0.57,2023-01-09,Post-IPO,"United States",1200,Complete
+Food,"Sao Paulo",Food,170,NULL,2022-06-02,"Series A",Brazil,31,Incomplete
+Healthcare,Boston,Healthcare,NULL,1,2022-11-09,"Series B","United States",81,Incomplete
+Retail,"New York City",Retail,NULL,NULL,2022-06-24,Unknown,"United States",76,Incomplete
+Finance,Coimbra,Finance,NULL,NULL,2023-01-27,Unknown,Portugal,273,Incomplete
+Food,Pittsburgh,Food,100,1,2022-10-28,"Series B","United States",35,Complete
+Legal,"Salt Lake City",Legal,NULL,NULL,2022-12-06,"Series D","United States",226,Incomplete
+Finance,"Tel Aviv",Finance,NULL,NULL,2023-01-25,Unknown,Israel,NULL,Incomplete
+Retail,Sydney,Retail,NULL,0.15,2023-02-03,Unknown,Australia,30,Incomplete
+Security,Columbus,Security,16,0.2,2022-06-17,"Series B","United States",49,Complete
+Finance,Hamburg,Finance,14,0.1,2022-06-30,"Series A",Germany,22,Complete
+Food,Chennai,Food,NULL,1,2023-02-20,"Series A","United States",9,Incomplete
+Crypto,"New York City",Crypto,30,0.05,2023-02-20,"Series E","United States",1000,Complete
+Data,"Tel Aviv",Data,NULL,NULL,2022-09-07,"Series C",Israel,264,Incomplete
+Infrastructure,"New York City",Infrastructure,NULL,NULL,2022-12-08,"Series B","United States",32,Incomplete
+Retail,"SF Bay Area",Retail,NULL,0.1,2022-11-29,"Series B","United States",269,Incomplete
+Finance,Auckland,Finance,NULL,NULL,2022-10-06,"Series B","New Zealand",29,Incomplete
+Media,"Washington D.C.",Media,30,NULL,2020-04-02,"Series D","United States",50,Incomplete
+Consumer,Stockholm,Consumer,NULL,NULL,2023-01-17,Unknown,"United States",59,Incomplete
+Fitness,Pune,Fitness,30,0.11,2023-03-02,"Series A",India,13,Complete
+Other,"Tel Aviv",Other,60,0.08,2022-07-26,Post-IPO,Israel,111,Complete
+Data,"SF Bay Area",Data,NULL,0.05,2022-10-04,"Series D","United States",NULL,Incomplete
+Food,Singapore,Food,NULL,NULL,2022-11-22,"Series B",Singapore,57,Incomplete
+Education,"New York City",Education,100,NULL,2020-05-06,Acquired,"United States",15,Incomplete
+Logistics,"SF Bay Area",Logistics,640,0.2,2023-01-11,"Series E","United States",2400,Complete
+Media,"SF Bay Area",Media,24,0.21,2022-10-16,Unknown,"United States",235,Complete
+Retail,Bengaluru,Retail,NULL,NULL,2023-03-02,Acquired,India,12900,Incomplete
+Education,"SF Bay Area",Education,37,0.5,2021-08-24,"Series A","United States",14,Complete
+Finance,"Los Angeles",Finance,NULL,NULL,2020-04-10,"Series C","United States",119,Incomplete
+Retail,Denver,Retail,NULL,0.15,2022-09-09,Unknown,"United States",45,Incomplete
+Retail,Toronto,Retail,NULL,0.25,2020-03-24,Unknown,Canada,NULL,Incomplete
+Other,"Sao Paulo",Other,83,0.82,2022-08-17,Seed,Brazil,NULL,Incomplete
+Finance,London,Finance,NULL,1,2022-10-14,Unknown,"United Kingdom",9,Incomplete
+"Real Estate",Seattle,"Real Estate",200,0.2,2022-07-20,"Series C","United States",310,Complete
+"Real Estate",Seattle,"Real Estate",300,0.4,2022-11-09,"Series C","United States",310,Complete
+Travel,Yangon,Travel,200,0.33,2020-04-01,Unknown,Myanmar,NULL,Incomplete
+Travel,Bengaluru,Travel,NULL,NULL,2020-05-01,Seed,India,1,Incomplete
+Marketing,Boulder,Marketing,4,0.2,2020-03-18,Seed,"United States",4,Complete
+Fitness,"New York City",Fitness,784,0.98,2020-03-20,Acquired,"United States",120,Complete
+Finance,Boston,Finance,60,0.12,2020-05-07,"Series E","United States",263,Complete
+Food,"New York City",Food,NULL,NULL,2020-04-17,Acquired,"United States",96,Incomplete
+Food,"New York City",Food,20,0.1,2022-04-08,Acquired,"United States",176,Complete
+Food,"New York City",Food,21,0.15,2022-06-03,Acquired,"United States",176,Complete
+Food,Bucharest,Food,80,NULL,2022-05-26,Acquired,Romania,749,Incomplete
+Food,Singapore,Food,NULL,NULL,2023-02-13,Acquired,Singapore,749,Incomplete
+Food,Singapore,Food,60,NULL,2022-09-07,Acquired,Singapore,749,Incomplete
+Food,Minneapolis,Food,87,0.67,2020-03-24,"Series B","United States",20,Complete
+Security,"SF Bay Area",Security,100,0.1,2023-01-10,Post-IPO,"United States",125,Complete
+Finance,"SF Bay Area",Finance,NULL,0.4,2022-10-06,"Series B","United States",58,Incomplete
+Sales,Toronto,Sales,15,0.09,2022-07-20,"Series B",Canada,58,Complete
+Logistics,Berlin,Logistics,60,0.08,2022-11-11,"Series D","United States",593,Complete
+Healthcare,"SF Bay Area",Healthcare,NULL,0.05,2022-07-11,"Series D","United States",225,Incomplete
+Healthcare,"SF Bay Area",Healthcare,10,0.03,2020-04-20,"Series C","United States",100,Complete
+Logistics,Chicago,Logistics,60,0.08,2022-08-11,"Series D","United States",201,Complete
+Food,Chicago,Food,26,0.035,2022-09-23,"Series C","United States",166,Complete
+Food,Mumbai,Food,150,NULL,2022-07-12,"Series B",India,63,Incomplete
+Finance,London,Finance,45,0.15,2022-06-10,Unknown,"United Kingdom",133,Complete
+Healthcare,Boston,Healthcare,NULL,0.5,2023-02-01,Post-IPO,"United States",76,Incomplete
+Finance,Toronto,Finance,38,0.09,2020-04-21,"Series B",Canada,75,Complete
+Food,Philadelphia,Food,40,NULL,2022-08-25,Acquired,"United States",280,Incomplete
+Food,"New York City",Food,NULL,0.25,2022-07-18,Acquired,"United States",107,Incomplete
+Food,Phoenix,Food,329,NULL,2022-12-12,Acquired,"United States",107,Incomplete
+Support,"SF Bay Area",Support,90,0.02,2022-12-15,Post-IPO,"United States",484,Complete
+Support,"SF Bay Area",Support,NULL,NULL,2022-09-28,"Series D","United States",203,Incomplete
+Travel,Milwaukee,Travel,35,0.16,2020-04-10,Unknown,"United States",3,Complete
+Education,Bengaluru,Education,130,0.75,2022-10-12,"Series A",India,17,Complete
+Education,Bengaluru,Education,145,0.3,2022-05-27,"Series A",India,17,Complete
+Food,Bogota,Food,NULL,0.03,2022-06-21,"Series C",Colombia,202,Incomplete
+Media,"New York City",Media,NULL,NULL,2022-08-02,Post-IPO,"United States",151,Incomplete
+Marketing,Atlanta,Marketing,NULL,NULL,2020-04-16,"Series C","United States",59,Incomplete
+Marketing,Atlanta,Marketing,NULL,0.12,2022-09-13,Unknown,"United States",197,Incomplete
+Finance,"SF Bay Area",Finance,14,0.15,2020-06-02,"Series C","United States",453,Complete
+Finance,"SF Bay Area",Finance,150,0.42,2022-10-25,"Series D","United States",553,Complete
+Finance,"SF Bay Area",Finance,85,NULL,2020-07-08,Post-IPO,"United States",746,Incomplete
+Finance,Singapore,Finance,65,0.18,2020-04-16,"Series B",Singapore,42,Complete
+Crypto,"SF Bay Area",Crypto,NULL,NULL,2022-08-29,"Series C","United States",310,Incomplete
+Retail,Bengaluru,Retail,180,NULL,2022-03-26,"Series D",India,228,Incomplete
+Education,London,Education,NULL,NULL,2022-11-28,Unknown,"United Kingdom",50,Incomplete
+Media,"New York City",Media,14,0.05,2020-04-03,Unknown,"United States",NULL,Incomplete
+Marketing,Chicago,Marketing,17,0.05,2020-06-30,"Series C","United States",101,Complete
+Consumer,"SF Bay Area",Consumer,30,0.33,2022-06-02,"Series B","United States",76,Complete
+Marketing,Atlanta,Marketing,NULL,0.5,2022-07-31,NULL,"United States",NULL,Incomplete
+Legal,"Los Angeles",Legal,NULL,1,2022-06-30,Seed,"United States",5,Incomplete
+Media,Seattle,Media,5,0.31,2020-04-10,Unknown,"United States",NULL,Incomplete
+Recruiting,"SF Bay Area",Recruiting,100,0.33,2022-11-01,"Series C","United States",148,Complete
+Crypto,"New York City",Crypto,NULL,0.1,2023-01-23,Unknown,"United States",423,Incomplete
+Crypto,"New York City",Crypto,100,0.1,2022-06-02,Unknown,"United States",423,Complete
+Crypto,"New York City",Crypto,68,0.07,2022-07-18,Unknown,"United States",423,Complete
+Crypto,"New York City",Crypto,52,0.2,2022-08-17,"Series A","United States",NULL,Incomplete
+Crypto,"New York City",Crypto,60,0.3,2023-01-05,"Series A","United States",NULL,Incomplete
+Consumer,"New York City",Consumer,NULL,NULL,2021-09-15,Acquired,"United States",78,Incomplete
+Healthcare,"SF Bay Area",Healthcare,23,NULL,2022-09-08,"Series C","United States",120,Incomplete
+Transportation,"SF Bay Area",Transportation,NULL,0.1,2023-02-02,Post-IPO,"United States",948,Incomplete
+Transportation,"SF Bay Area",Transportation,100,0.25,2020-03-27,"Series D","United States",403,Complete
+Food,Istanbul,Food,NULL,0.14,2022-05-25,"Series E",Turkey,1800,Incomplete
+Food,London,Food,NULL,NULL,2023-02-13,"Series E","United Kingdom",1800,Incomplete
+Food,"New York City",Food,100,NULL,2023-02-02,"Series E","United States",1800,Incomplete
+Consumer,"Sao Paulo",Consumer,11,0.1,2020-04-08,"Series B",Brazil,16,Complete
+Transportation,"Tel Aviv",Transportation,30,NULL,2022-05-31,"Series A",Israel,49,Incomplete
+Travel,Berlin,Travel,90,0.17,2020-10-14,"Series E",Germany,656,Complete
+Product,"SF Bay Area",Product,NULL,0.1,2023-02-09,Acquired,"United States",350,Incomplete
+Product,"SF Bay Area",Product,130,0.07,2023-02-09,Post-IPO,"United States",413,Complete
+Product,Kiel,Product,21,0.28,2023-01-24,"Series A",Germany,41,Complete
+Healthcare,Boston,Healthcare,NULL,NULL,2022-06-24,"Series B","United States",45,Incomplete
+Recruiting,"SF Bay Area",Recruiting,300,0.3,2020-05-07,Acquired,"United States",204,Complete
+HR,Singapore,HR,198,0.18,2022-12-08,"Series D",Singapore,82,Complete
+Product,"New York City",Product,18,0.36,2020-05-21,"Series A","United States",30,Complete
+Finance,Dallas,Finance,NULL,1,2022-11-21,Unknown,"United States",NULL,Incomplete
+Consumer,"New York City",Consumer,80,0.33,2022-01-26,"Series E","United States",266,Complete
+Retail,"New York City",Retail,19,0.08,2022-08-02,"Series E","United States",266,Complete
+Retail,"New York City",Retail,150,0.38,2020-08-07,"Series D","United States",186,Complete
+Food,Barcelona,Food,250,0.06,2023-01-30,Acquired,Spain,1200,Complete
+Retail,"Los Angeles",Retail,NULL,NULL,2020-04-01,"Series D","United States",197,Incomplete
+Finance,Singapore,Finance,22,0.11,2020-09-01,Unknown,Singapore,97,Complete
+Logistics,Toronto,Logistics,55,0.05,2023-01-10,"Series C",Canada,178,Complete
+Other,"Washington D.C.",Other,NULL,NULL,2023-01-13,Acquired,"United States",21,Incomplete
+Finance,London,Finance,NULL,NULL,2020-04-24,"Series E","United Kingdom",122,Incomplete
+Marketing,Austin,Marketing,451,0.06,2020-06-24,Post-IPO,"United States",NULL,Incomplete
+Marketing,Phoenix,Marketing,530,0.08,2023-02-08,Post-IPO,"United States",800,Complete
+Finance,"SF Bay Area",Finance,94,0.12,2022-10-26,"Series A","United States",NULL,Incomplete
+Healthcare,Chicago,Healthcare,800,0.2,2022-08-09,Post-IPO,"United States",75,Complete
+Transportation,Jakarta,Transportation,430,0.09,2020-06-23,"Series F",Indonesia,4800,Complete
+Transportation,Lagos,Transportation,20,NULL,2022-11-14,Unknown,Nigeria,12,Incomplete
+Transportation,Lagos,Transportation,54,NULL,2023-01-31,Unknown,Nigeria,12,Incomplete
+Transportation,Gurugram,Transportation,NULL,0.7,2023-01-17,"Series C",India,54,Incomplete
+Sales,"SF Bay Area",Sales,80,0.07,2023-02-08,"Series E","United States",583,Complete
+Media,Mumbai,Media,NULL,1,2022-10-27,Seed,India,NULL,Incomplete
+Food,Calgary,Food,70,NULL,2022-04-07,Post-IPO,Canada,16,Incomplete
+Retail,Toronto,Retail,NULL,1,2022-11-23,Seed,Canada,6,Incomplete
+Healthcare,"Los Angeles",Healthcare,140,0.16,2022-08-31,Post-IPO,"United States",910,Complete
+Consumer,"SF Bay Area",Consumer,12000,0.06,2023-01-20,Post-IPO,"United States",26,Complete
+Consumer,"SF Bay Area",Consumer,200,0.2,2020-04-15,Post-IPO,"United States",288,Complete
+Food,Philadelphia,Food,100,NULL,2022-01-26,"Series H","United States",3400,Incomplete
+Food,Philadelphia,Food,250,NULL,2022-10-19,"Series H","United States",3400,Incomplete
+Food,Philadelphia,Food,450,0.03,2022-03-29,"Series H","United States",3400,Complete
+Food,Philadelphia,Food,1500,0.1,2022-07-12,"Series H","United States",3400,Complete
+Food,Berlin,Food,300,0.5,2022-05-24,"Series C",Germany,1300,Complete
+Food,Berlin,Food,540,NULL,2022-07-03,"Series C",Germany,1300,Incomplete
+Retail,Denver,Retail,23,0.2,2020-03-26,"Series B","United States",47,Complete
+Education,Vienna,Education,100,NULL,2022-12-14,"Series D",Austria,686,Incomplete
+Education,Vienna,Education,200,NULL,2022-09-08,"Series D",Austria,686,Incomplete
+Transportation,Jakarta,Transportation,1300,0.12,2022-11-10,Post-IPO,Indonesia,1300,Complete
+Transportation,Singapore,Transportation,360,0.05,2020-06-16,"Series I",Singapore,9900,Complete
+Retail,"New York City",Retail,NULL,NULL,2020-04-16,"Series A","United States",16,Incomplete
+Food,Indore,Food,75,NULL,2023-01-16,"Series B",India,17,Incomplete
+Data,Bristol,Data,NULL,NULL,2022-09-27,Unknown,"United Kingdom",692,Incomplete
+Data,"Los Angeles",Data,20,0.4,2020-03-23,Unknown,"United States",7,Complete
+Food,Seoul,Food,NULL,NULL,2023-02-21,"Series C","South Korea",214,Incomplete
+Recruiting,"New York City",Recruiting,120,0.28,2020-04-17,"Series D","United States",110,Complete
+Finance,Atlanta,Finance,104,0.21,2023-01-12,"Series D","United States",556,Complete
+Marketing,Sacramento,Marketing,60,0.13,2022-11-30,"Series B","United States",145,Complete
+Media,"New York City",Media,50,0.07,2020-04-07,Unknown,"United States",190,Complete
+Retail,Chicago,Retail,500,NULL,2023-01-30,Post-IPO,"United States",1400,Incomplete
+Retail,Chicago,Retail,500,0.15,2022-08-08,Post-IPO,"United States",1400,Complete
+Retail,Chicago,Retail,2800,0.44,2020-04-13,Post-IPO,"United States",1400,Complete
+Retail,"SF Bay Area",Retail,NULL,0.17,2022-03-19,"Series E","United States",474,Incomplete
+Retail,Berlin,Retail,40,0.1,2022-12-07,Unknown,"United States",2300,Complete
+Crypto,"Hong Kong",Crypto,NULL,NULL,2022-10-11,Unknown,"Hong Kong",NULL,Incomplete
+Healthcare,"SF Bay Area",Healthcare,130,0.07,2023-01-25,Post-IPO,"United States",550,Complete
+Finance,"SF Bay Area",Finance,NULL,0.02,2022-08-11,Post-IPO,"United States",24,Incomplete
+Marketing,"Los Angeles",Marketing,90,0.25,2020-04-20,"Series D","United States",58,Complete
+HR,"SF Bay Area",HR,126,0.05,2023-02-08,"Series E","United States",746,Complete
+Fitness,"Sao Paulo",Fitness,467,0.33,2020-04-03,"Series D",Brazil,300,Complete
+HR,"SF Bay Area",HR,NULL,0.08,2023-02-14,"Series B","United States",11,Incomplete
+Healthcare,"New York City",Healthcare,NULL,1,2022-04-15,Unknown,"United States",2,Incomplete
+Recruiting,"SF Bay Area",Recruiting,NULL,NULL,2020-05-05,"Series C","United States",74,Incomplete
+Finance,"Los Angeles",Finance,158,0.34,2022-11-30,"Series D","United States",191,Complete
+Education,"New Delhi",Education,60,0.3,2023-01-03,Acquired,India,NULL,Incomplete
+Finance,"Sao Paulo",Finance,58,0.5,2022-08-01,"Series C",Brazil,58,Complete
+Security,"SF Bay Area",Security,69,NULL,2023-01-11,Post-IPO,"United States",349,Incomplete
+Food,"SF Bay Area",Food,NULL,1,2022-08-09,Seed,"United States",7,Incomplete
+Consumer,Denver,Consumer,5,NULL,2020-07-01,"Series C","United States",58,Incomplete
+Healthcare,"Los Angeles",Healthcare,50,0.04,2022-12-14,Unknown,"United States",215,Complete
+Healthcare,"SF Bay Area",Healthcare,NULL,NULL,2022-12-19,"Series D","United States",136,Incomplete
+Healthcare,Miami,Healthcare,149,NULL,2022-08-03,"Series C","United States",244,Incomplete
+Fitness,Bengaluru,Fitness,150,NULL,2022-12-03,"Series C",India,100,Incomplete
+Healthcare,Sydney,Healthcare,18,0.5,2022-06-28,"Series B",Australia,20,Complete
+Finance,Stockholm,Finance,12,NULL,2022-09-01,"Series B",Sweden,67,Incomplete
+Food,"SF Bay Area",Food,611,NULL,2022-10-10,Post-IPO,"United States",367,Incomplete
+Support,Boston,Support,NULL,NULL,2022-11-01,"Series B","United States",28,Incomplete
+Support,Austin,Support,16,1,2020-03-16,Seed,"United States",6,Complete
+Media,Boston,Media,10,0.18,2020-06-10,Unknown,"United States",NULL,Incomplete
+Retail,London,Retail,24,0.2,2022-07-15,Unknown,"United States",265,Complete
+Transportation,Berlin,Transportation,73,NULL,2023-01-27,Unknown,Germany,NULL,Incomplete
+HR,"Tel Aviv",HR,70,0.3,2020-03-30,"Series A",Israel,45,Complete
+Finance,Bengaluru,Finance,25,NULL,2022-11-09,"Series C",India,475,Incomplete
+Media,Berlin,Media,51,0.25,2020-04-01,"Series A",Germany,9,Complete
+Sales,Seattle,Sales,100,0.1,2023-02-02,"Series F","United States",644,Complete
+Travel,"SF Bay Area",Travel,NULL,0.6,2020-04-20,"Series B","United States",41,Incomplete
+Finance,"SF Bay Area",Finance,70,0.1,2022-08-31,Post-IPO,"United States",1300,Complete
+Recruiting,Bengaluru,Recruiting,200,0.4,2022-11-28,"Series A",India,NULL,Incomplete
+Recruiting,"SF Bay Area",Recruiting,NULL,NULL,2020-06-30,"Series D","United States",132,Incomplete
+Recruiting,Chicago,Recruiting,36,0.17,2020-05-12,"Series D","United States",52,Complete
+Crypto,Singapore,Crypto,40,0.8,2022-08-19,Unknown,Singapore,NULL,Incomplete
+Infrastructure,Chicago,Infrastructure,80,0.4,2022-06-09,"Series B","United States",82,Complete
+"Real Estate",Denver,"Real Estate",18,0.13,2022-12-19,Acquired,"United States",4,Complete
+"Real Estate","SF Bay Area","Real Estate",NULL,NULL,2022-12-02,Unknown,"United States",128,Incomplete
+"Real Estate","SF Bay Area","Real Estate",NULL,0.19,2022-06-29,"Series D","United States",743,Incomplete
+"Real Estate",Phoenix,"Real Estate",113,NULL,2022-11-17,Post-IPO,"United States",NULL,Incomplete
+"Real Estate",Austin,"Real Estate",NULL,0.2,2022-08-10,"Series B","United States",160,Incomplete
+"Real Estate",Austin,"Real Estate",NULL,0.25,2022-11-16,Unknown,"United States",501,Incomplete
+"Real Estate","Salt Lake City","Real Estate",40,0.13,2022-10-04,"Series B","United States",35,Complete
+"Real Estate","Salt Lake City","Real Estate",119,0.29,2022-02-14,"Series B","United States",35,Complete
+Consumer,Singapore,Consumer,250,1,2020-03-27,Unknown,Singapore,95,Complete
+Marketing,Vancouver,Marketing,50,0.05,2022-11-01,"Series C",Canada,300,Complete
+Marketing,Vancouver,Marketing,70,0.07,2023-01-18,"Series C",Canada,300,Complete
+Marketing,Vancouver,Marketing,400,0.3,2022-08-09,"Series C",Canada,300,Complete
+Other,London,Other,NULL,0.17,2022-11-16,"Series D","United Kingdom",1000,Incomplete
+Other,London,Other,138,0.12,2022-02-10,"Series D","United States",1000,Complete
+Other,London,Other,242,0.29,2022-07-11,"Series D","United Kingdom",1000,Complete
+Travel,Boston,Travel,NULL,NULL,2020-04-06,"Series D","United States",183,Incomplete
+Transportation,"Los Angeles",Transportation,NULL,NULL,2020-08-12,Unknown,"United States",45,Incomplete
+Transportation,"Los Angeles",Transportation,8,0.1,2020-03-13,Unknown,"United States",45,Complete
+Travel,Berlin,Travel,15,0.25,2020-04-24,"Series B",Germany,30,Complete
+Marketing,"Belo Horizonte",Marketing,227,0.12,2022-10-20,"Series C",Brazil,127,Complete
+Consumer,"SF Bay Area",Consumer,95,0.08,2022-12-07,"Series E","United States",613,Complete
+Consumer,"SF Bay Area",Consumer,155,0.1,2020-04-21,"Series E","United States",613,Complete
+Security,Helsinki,Security,NULL,NULL,2023-01-29,"Series B",Finland,43,Incomplete
+Hardware,"Tel Aviv",Hardware,100,NULL,2023-02-19,Post-IPO,Israel,4200,Incomplete
+Hardware,Shenzen,Hardware,NULL,NULL,2022-10-16,Unknown,China,NULL,Incomplete
+Retail,Toronto,Retail,45,1,2021-02-01,"Series B",Canada,61,Complete
+"Real Estate","SF Bay Area","Real Estate",NULL,1,2020-09-11,"Series A","United States",13,Incomplete
+Marketing,"SF Bay Area",Marketing,45,0.12,2022-07-12,"Series B","United States",153,Complete
+Other,"SF Bay Area",Other,115,0.35,2023-01-19,"Series B","United States",153,Complete
+Marketing,Boston,Marketing,500,0.07,2023-01-31,Post-IPO,"United States",100,Complete
+Media,"New York City",Media,47,NULL,2021-03-09,Acquired,"United States",37,Incomplete
+Transportation,London,Transportation,NULL,NULL,2020-09-25,"Private Equity","United Kingdom",2,Incomplete
+Media,"SF Bay Area",Media,10,NULL,2022-04-15,Acquired,"United States",4,Incomplete
+HR,"SF Bay Area",HR,26,NULL,2020-04-02,"Series B","United States",40,Incomplete
+HR,Bogota,HR,30,NULL,2022-06-14,Seed,Colombia,6,Incomplete
+Crypto,Beijing,Crypto,275,0.2,2023-01-06,Unknown,China,2,Complete
+Crypto,Beijing,Crypto,300,0.3,2022-06-28,Unknown,China,2,Complete
+Fitness,Boston,Fitness,NULL,0.35,2022-07-18,"Series D","United States",269,Incomplete
+Fitness,Boston,Fitness,30,NULL,2023-01-19,"Series D","United States",269,Incomplete
+Data,"New York City",Data,100,0.25,2022-03-03,"Series E","United States",289,Complete
+Hardware,Pittsburgh,Hardware,NULL,NULL,2023-01-19,Unknown,"United States",21,Incomplete
+Hardware,"New York City",Hardware,3900,0.02,2023-01-25,Post-IPO,"United States",NULL,Incomplete
+Retail,Denver,Retail,87,0.15,2020-04-07,"Series D","United States",85,Complete
+Legal,Seattle,Legal,NULL,NULL,2023-01-19,Unknown,"United States",521,Incomplete
+Construction,Austin,Construction,NULL,NULL,2023-01-24,"Series B","United States",451,Incomplete
+Security,"Washington D.C.",Security,130,NULL,2022-06-07,Unknown,"United States",275,Incomplete
+Retail,Seattle,Retail,40,NULL,2022-05-04,"Series A","United States",7,Incomplete
+Fitness,Logan,Fitness,NULL,NULL,2021-12-08,"Private Equity","United States",200,Incomplete
+Fitness,Logan,Fitness,NULL,NULL,2022-02-25,"Private Equity","United States",200,Incomplete
+Fitness,Logan,Fitness,300,0.2,2022-11-14,"Private Equity","United States",200,Complete
+Consumer,"Kuala Lumpur",Consumer,50,0.12,2020-04-04,Unknown,Malaysia,348,Complete
+Food,"Sao Paulo",Food,355,0.06,2023-03-01,Subsidiary,Brazil,2100,Complete
+Data,Seattle,Data,NULL,NULL,2020-11-17,"Series C","United States",67,Incomplete
+Crypto,"SF Bay Area",Crypto,NULL,0.5,2022-07-11,"Series A","United States",9,Incomplete
+Finance,Sydney,Finance,NULL,0.1,2023-01-16,"Series C",Australia,74,Incomplete
+Transportation,"SF Bay Area",Transportation,10,0.14,2020-04-22,"Series A","United States",52,Complete
+Healthcare,"San Diego",Healthcare,500,0.05,2022-11-14,Post-IPO,"United States",28,Complete
+Security,Bristol,Security,38,0.1,2022-08-30,"Series C","United Kingdom",123,Complete
+Crypto,Sydney,Crypto,NULL,0.11,2023-02-22,"Series C",Australia,279,Incomplete
+Crypto,Sydney,Crypto,20,0.06,2022-07-26,"Series C",Australia,279,Complete
+Marketing,"Los Angeles",Marketing,NULL,0.1,2022-08-25,"Private Equity","United States",361,Incomplete
+Travel,London,Travel,30,0.35,2022-06-01,"Series B","United Kingdom",32,Complete
+Food,"SF Bay Area",Food,NULL,NULL,2021-09-22,"Series D","United States",229,Incomplete
+Food,"SF Bay Area",Food,50,NULL,2022-07-29,"Series D","United States",229,Incomplete
+Food,"SF Bay Area",Food,50,0.06,2022-10-06,"Series H","United States",1900,Complete
+Food,"SF Bay Area",Food,140,0.2,2023-01-30,"Series H","United States",1900,Complete
+Other,London,Other,NULL,0.1,2022-12-16,Unknown,"United Kingdom",704,Incomplete
+Healthcare,"SF Bay Area",Healthcare,9,0.4,2020-04-01,"Series A","United States",15,Complete
+Finance,Sydney,Finance,40,0.17,2022-07-26,"Series B",Australia,41,Complete
+Other,Boston,Other,NULL,NULL,2023-03-03,"Series F","United States",1200,Incomplete
+Other,Boston,Other,80,NULL,2021-02-09,"Series F","United States",1200,Incomplete
+"Real Estate","New York City","Real Estate",90,0.2,2020-04-02,"Series D","United States",222,Complete
+Other,Berlin,Other,50,0.05,2022-09-14,"Series D",Germany,604,Complete
+Other,Berlin,Other,500,0.5,2022-11-28,"Series D",Germany,604,Complete
+Marketing,Toronto,Marketing,NULL,NULL,2020-04-17,Unknown,Canada,59,Incomplete
+Data,"SF Bay Area",Data,65,0.27,2022-11-10,"Series D","United States",119,Complete
+Other,London,Other,NULL,NULL,2022-11-16,"Series A","United Kingdom",15,Incomplete
+Data,"SF Bay Area",Data,450,0.07,2023-01-10,Post-IPO,"United States",NULL,Incomplete
+Security,London,Security,20,0.12,2022-10-19,"Series B","United Kingdom",88,Complete
+Marketing,Bengaluru,Marketing,50,NULL,2023-01-23,Unknown,India,320,Incomplete
+Healthcare,"SF Bay Area",Healthcare,90,0.08,2022-09-01,"Series E","United States",379,Complete
+Healthcare,"SF Bay Area",Healthcare,245,0.15,2023-01-24,"Series E","United States",379,Complete
+Marketing,"New York City",Marketing,40,0.1,2023-01-23,Post-IPO,"United States",295,Complete
+Healthcare,Boulder,Healthcare,43,NULL,2022-12-08,"Series E","United States",459,Incomplete
+"Real Estate",Seattle,"Real Estate",NULL,NULL,2022-11-28,"Series A","United States",11,Incomplete
+Travel,Denver,Travel,109,0.12,2023-01-18,Post-IPO,"United States",179,Complete
+Travel,Denver,Travel,130,0.22,2020-03-16,"Series C","United States",79,Complete
+Food,"SF Bay Area",Food,NULL,NULL,2022-09-24,Unknown,"United States",2900,Incomplete
+Food,"SF Bay Area",Food,1877,NULL,2021-01-21,Unknown,"United States",2400,Incomplete
+Finance,Bengaluru,Finance,6,0.06,2020-04-02,Unknown,India,8,Complete
+Education,"Salt Lake City",Education,150,0.12,2020-05-27,Acquired,"United States",89,Complete
+Legal,"SF Bay Area",Legal,45,0.05,2020-05-18,"Private Equity","United States",NULL,Incomplete
+Marketing,"New York City",Marketing,70,0.1,2020-05-14,Acquired,"United States",116,Complete
+Marketing,"New York City",Marketing,120,0.13,2022-12-07,Acquired,"United States",116,Complete
+Support,Toronto,Support,26,NULL,2020-06-09,Unknown,Canada,40,Incomplete
+Hardware,"SF Bay Area",Hardware,201,NULL,2022-12-06,Post-IPO,"United States",12,Incomplete
+Hardware,"SF Bay Area",Hardware,343,NULL,2023-01-30,Post-IPO,"United States",12,Incomplete
+Support,"SF Bay Area",Support,39,0.06,2020-05-20,"Series D","United States",240,Complete
+Support,"SF Bay Area",Support,49,0.05,2022-09-07,"Series D","United States",240,Complete
+Support,"SF Bay Area",Support,124,0.13,2022-11-14,"Series D","United States",240,Complete
+Product,Toronto,Product,19,0.11,2020-05-13,Acquired,Canada,NULL,Incomplete
+Other,"SF Bay Area",Other,40,0.2,2023-01-11,Acquired,"United States",NULL,Incomplete
